@@ -6,7 +6,7 @@ import { RouterModule, Routes } from '@angular/router';
 const routes: Routes = [
   { path: '', component: HoroscoposMensualComponent },
   { path: 'historico', component: HoroscoposHistoricoComponent },
-  { path: 'horoscopos', component: HoroscoposMensualComponent },
+  // { path: 'horoscopos', component: HoroscoposMensualComponent },
 
   { path: '*', component: HoroscoposHistoricoComponent },
 ];
