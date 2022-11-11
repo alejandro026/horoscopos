@@ -1,104 +1,26 @@
-<!-- <mat-accordion>
-  <mat-expansion-panel hideToggle>
-    <mat-expansion-panel-header>
-      <mat-panel-title>
-        Horoscopo
-      </mat-panel-title>
-      <mat-panel-description>
-        Horoscopo mensual
-      </mat-panel-description>
-    </mat-expansion-panel-header>
-
-
-
-    <div class="accordion-body">
-      <strong>This is the first item's accordion body.</strong> It is shown by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
-    </div>
-  </mat-expansion-panel>
-  <mat-expansion-panel (opened)="panelOpenState = true"
-                       (closed)="panelOpenState = false">
-    <mat-expansion-panel-header>
-      <mat-panel-title>
-        Self aware panel
-      </mat-panel-title>
-      <mat-panel-description>
-        Currently I am {{panelOpenState ? 'open' : 'closed'}}
-      </mat-panel-description>
-    </mat-expansion-panel-header>
-    <p>I'm visible because I am open</p>
-  </mat-expansion-panel>
-</mat-accordion> -->
-
 <div class="col horoscopo">
-  <mat-tab-group [backgroundColor]="'primary'">
-    <mat-tab  label="Horoscopo de Nov 11, 2022">
-      <div class="row" style="text-align: center; margin-left: 30%; margin-right: 30%;">
-        <img src="https://lh3.googleusercontent.com/ZawWWfBoLuSD26BTkkMairJIjxd11oCULGSvezDcqCXhZKNosbnueuG324Fy24MwvpJbqyMZvCrnwkWAFx6W7s3Oq4QbN9NCwpGjXKKxp1gLaiqX9lYdEGbsEIUvlt6jD76rT7nHxq751qQDlTiZ7g" alt="">
+  <div class="row">
+    <div class="col">
+      <mat-card class="demo-inline-calendar-card">
+        <mat-calendar [(selected)]="selected" [maxDate]="fechaMaxima"></mat-calendar>
+      </mat-card>
+    </div>
+    <div class="col">
+      <div class="row" *ngIf="selected!=null">
+        <h2 style="text-align: center;">Horoscolo del dia {{selected | date: 'dd/MM/yyyy'}}</h2>
+        <div class="row" style="text-align: center; margin-left: 30%; margin-right: 30%;">
+          <img src="{{hoscopo[selected?.getDate()!-1].imagen}}">
+        </div>
+        <div class="row">
+          <div class="col-3">
+          </div>
+          <div class="col-3">
+            <p style="text-align: justify; margin-left: 35%; margin-right: 35%;">
+              {{hoscopo[selected?.getDate()!-1].informacion}}
+            </p>
+          </div>
+        </div>
       </div>
-      <div class="row">
-        <div class="col-4">
-
-        </div>
-
-        <div class="col-4">
-          <p style="text-align: justify; margin-left: 35%; margin-right: 35%;">
-            Cuando ha logrado el autoconocimiento recibe el regalo de la autodeterminación y la responsabilidad de haber crecido mental y espiritualmente más que otros. Logrando y componiendo la realización de su propia búsqueda, hallando su propio camino de vida en permanente crecimiento personal para la realización del amor, la felicidad y el dinero. Declare con energía y poderío: "Deseo verdad y consecuencias merecidas y deseo un lugar donde crecer en libertad de pensamientos y el poder de desarrollar mis ideas particulares y generar un futuro querido y deseado". Trate de planear algún paseo postergado, juntos. Se sentirá alentado por su pareja en proyectos de largo alcance.
-          </p>
-        </div>
-
-        <div class="col-4">
-
-        </div>
-
-      </div>
-
-    </mat-tab>
-    <mat-tab label="Horoscopo de Nov 11, 2022">
-      <div class="row" style="text-align: center; margin-left: 30%; margin-right: 30%;">
-        <img src="https://lh3.googleusercontent.com/ZawWWfBoLuSD26BTkkMairJIjxd11oCULGSvezDcqCXhZKNosbnueuG324Fy24MwvpJbqyMZvCrnwkWAFx6W7s3Oq4QbN9NCwpGjXKKxp1gLaiqX9lYdEGbsEIUvlt6jD76rT7nHxq751qQDlTiZ7g" alt="">
-      </div>
-      <div class="row">
-        <div class="col-4">
-
-        </div>
-
-        <div class="col-4">
-          <p style="text-align: justify; margin-left: 35%; margin-right: 35%;">
-            Cuando ha logrado el autoconocimiento recibe el regalo de la autodeterminación y la responsabilidad de haber crecido mental y espiritualmente más que otros. Logrando y componiendo la realización de su propia búsqueda, hallando su propio camino de vida en permanente crecimiento personal para la realización del amor, la felicidad y el dinero. Declare con energía y poderío: "Deseo verdad y consecuencias merecidas y deseo un lugar donde crecer en libertad de pensamientos y el poder de desarrollar mis ideas particulares y generar un futuro querido y deseado". Trate de planear algún paseo postergado, juntos. Se sentirá alentado por su pareja en proyectos de largo alcance.
-          </p>
-        </div>
-
-        <div class="col-4">
-
-        </div>
-
-      </div>
-
-    </mat-tab>
-    <mat-tab label="Horoscopo de Nov 09, 2022">
-
-      <div class="row" style="text-align: center; margin-left: 30%; margin-right: 30%;">
-        <img src="https://lh3.googleusercontent.com/ZawWWfBoLuSD26BTkkMairJIjxd11oCULGSvezDcqCXhZKNosbnueuG324Fy24MwvpJbqyMZvCrnwkWAFx6W7s3Oq4QbN9NCwpGjXKKxp1gLaiqX9lYdEGbsEIUvlt6jD76rT7nHxq751qQDlTiZ7g" alt="">
-      </div>
-      <div class="row">
-        <div class="col-4">
-
-        </div>
-
-        <div class="col-4">
-          <p style="text-align: justify; margin-left: 35%; margin-right: 35%;">
-            Cuando ha logrado el autoconocimiento recibe el regalo de la autodeterminación y la responsabilidad de haber crecido mental y espiritualmente más que otros. Logrando y componiendo la realización de su propia búsqueda, hallando su propio camino de vida en permanente crecimiento personal para la realización del amor, la felicidad y el dinero. Declare con energía y poderío: "Deseo verdad y consecuencias merecidas y deseo un lugar donde crecer en libertad de pensamientos y el poder de desarrollar mis ideas particulares y generar un futuro querido y deseado". Trate de planear algún paseo postergado, juntos. Se sentirá alentado por su pareja en proyectos de largo alcance.
-          </p>
-        </div>
-
-        <div class="col-4">
-
-        </div>
-
-      </div>
-
-
-    </mat-tab>
-  </mat-tab-group>
-
+    </div>
+  </div>
 </div>

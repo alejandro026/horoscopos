@@ -7,7 +7,7 @@ const routes: Routes = [
   { path: '', component: HoroscoposMensualComponent },
   { path: 'horoscopos', component: HoroscoposHistoricoComponent },
   { path: 'historico', component: HoroscoposMensualComponent },
-  { path: '*', redirectTo: "/historico", pathMatch: "full"},
+  { path: '*', redirectTo: "horoscopos", pathMatch: "full"},
 ];
 
 @NgModule({
