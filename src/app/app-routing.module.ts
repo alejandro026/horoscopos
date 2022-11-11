@@ -5,8 +5,8 @@ import { RouterModule, Routes } from '@angular/router';
 
 const routes: Routes = [
   { path: '', component: HoroscoposMensualComponent },
-  { path: 'horoscopos', component: HoroscoposHistoricoComponent },
-  { path: 'historico', component: HoroscoposMensualComponent },
+  { path: 'horoscopos', component: HoroscoposMensualComponent },
+  { path: 'historico', component:  HoroscoposHistoricoComponent},
   { path: '*', redirectTo: "horoscopos", pathMatch: "full"},
 ];
 
