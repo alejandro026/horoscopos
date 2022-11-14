@@ -7,11 +7,8 @@ import { Component, OnInit } from '@angular/core';
 })
 export class HoroscoposMensualComponent implements OnInit {
 
-  panelOpenState = false;
+  selected: Date= new Date();
 
-  selected?: Date | null;
-
-  dia= this.selected?.getDay();
 
   fechaMaxima: Date= new Date();
 
@@ -62,11 +59,32 @@ export class HoroscoposMensualComponent implements OnInit {
     {
      imagen:"https://lh3.googleusercontent.com/ZawWWfBoLuSD26BTkkMairJIjxd11oCULGSvezDcqCXhZKNosbnueuG324Fy24MwvpJbqyMZvCrnwkWAFx6W7s3Oq4QbN9NCwpGjXKKxp1gLaiqX9lYdEGbsEIUvlt6jD76rT7nHxq751qQDlTiZ7g",
       informacion:"En el horóscopo de hoy, viernes 11 de noviembre, el Sol se cruza en el camino de Saturno, astro relacionado con los impedimentos y demoras, dándote la sensación de estar muy alejado de tus metas; por eso, te recomiendo mantener la calma y no enojarte. Es un día para reflexionar sobre los cambios a realizar."
-    }
+    },
+    {
+      imagen:"https://lh3.googleusercontent.com/ZawWWfBoLuSD26BTkkMairJIjxd11oCULGSvezDcqCXhZKNosbnueuG324Fy24MwvpJbqyMZvCrnwkWAFx6W7s3Oq4QbN9NCwpGjXKKxp1gLaiqX9lYdEGbsEIUvlt6jD76rT7nHxq751qQDlTiZ7g",
+       informacion:"En el horóscopo de hoy, viernes 11 de noviembre, el Sol se cruza en el camino de Saturno, astro relacionado con los impedimentos y demoras, dándote la sensación de estar muy alejado de tus metas; por eso, te recomiendo mantener la calma y no enojarte. Es un día para reflexionar sobre los cambios a realizar."
+     },
+     {
+      imagen:"https://lh3.googleusercontent.com/ZawWWfBoLuSD26BTkkMairJIjxd11oCULGSvezDcqCXhZKNosbnueuG324Fy24MwvpJbqyMZvCrnwkWAFx6W7s3Oq4QbN9NCwpGjXKKxp1gLaiqX9lYdEGbsEIUvlt6jD76rT7nHxq751qQDlTiZ7g",
+       informacion:"En el horóscopo de hoy, viernes 11 de noviembre, el Sol se cruza en el camino de Saturno, astro relacionado con los impedimentos y demoras, dándote la sensación de estar muy alejado de tus metas; por eso, te recomiendo mantener la calma y no enojarte. Es un día para reflexionar sobre los cambios a realizar."
+     },
+     {
+      imagen:"https://lh3.googleusercontent.com/ZawWWfBoLuSD26BTkkMairJIjxd11oCULGSvezDcqCXhZKNosbnueuG324Fy24MwvpJbqyMZvCrnwkWAFx6W7s3Oq4QbN9NCwpGjXKKxp1gLaiqX9lYdEGbsEIUvlt6jD76rT7nHxq751qQDlTiZ7g",
+       informacion:"En el horóscopo de hoy, viernes 11 de noviembre, el Sol se cruza en el camino de Saturno, astro relacionado con los impedimentos y demoras, dándote la sensación de estar muy alejado de tus metas; por eso, te recomiendo mantener la calma y no enojarte. Es un día para reflexionar sobre los cambios a realizar."
+     },
+     {
+      imagen:"https://lh3.googleusercontent.com/ZawWWfBoLuSD26BTkkMairJIjxd11oCULGSvezDcqCXhZKNosbnueuG324Fy24MwvpJbqyMZvCrnwkWAFx6W7s3Oq4QbN9NCwpGjXKKxp1gLaiqX9lYdEGbsEIUvlt6jD76rT7nHxq751qQDlTiZ7g",
+       informacion:"En el horóscopo de hoy, viernes 11 de noviembre, el Sol se cruza en el camino de Saturno, astro relacionado con los impedimentos y demoras, dándote la sensación de estar muy alejado de tus metas; por eso, te recomiendo mantener la calma y no enojarte. Es un día para reflexionar sobre los cambios a realizar."
+     },
+     {
+      imagen:"https://lh3.googleusercontent.com/ZawWWfBoLuSD26BTkkMairJIjxd11oCULGSvezDcqCXhZKNosbnueuG324Fy24MwvpJbqyMZvCrnwkWAFx6W7s3Oq4QbN9NCwpGjXKKxp1gLaiqX9lYdEGbsEIUvlt6jD76rT7nHxq751qQDlTiZ7g",
+       informacion:"En el horóscopo de hoy, viernes 11 de noviembre, el Sol se cruza en el camino de Saturno, astro relacionado con los impedimentos y demoras, dándote la sensación de estar muy alejado de tus metas; por eso, te recomiendo mantener la calma y no enojarte. Es un día para reflexionar sobre los cambios a realizar."
+     }
   ]
 
-  constructor() { }
- fecha:Date= new Date();
+  constructor(
+  ) { }
+
   ngOnInit(): void {
   }
 

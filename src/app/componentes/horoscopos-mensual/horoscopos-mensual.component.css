@@ -3,6 +3,11 @@ mat-tab-group{
   color: white;
 }
 
+.colInfo{
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+}
+
 /* .horoscopo{
   background-color: black;
 
@@ -12,3 +17,19 @@ mat-tab-group{
   width: 300px;
 }
 
+
+::ng-deep .mat-datepicker-toggle {
+  color: rgb(255, 255, 255);
+}
+::ng-deep datepicker-value-example .mat-form-field-label {
+  color: rgb(255, 255, 255);
+}
+
+::ng-deep .mat-calendar-body-cell-content,
+.mat-date-range-input-separator {
+  color: rgb(247, 239, 239);
+}
+
+::ng-deep .mat-calendar {
+  background: rgb(24, 24, 24);
+}
