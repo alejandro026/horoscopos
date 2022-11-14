@@ -31,5 +31,16 @@ mat-tab-group{
 }
 
 ::ng-deep .mat-calendar {
-  background: rgb(24, 24, 24);
+  background: rgb(153, 153, 153);
+}
+mat-label{
+  color: white;
+}
+
+input{
+  color: white;
+}
+
+mat-hint{
+  color: white;
 }
