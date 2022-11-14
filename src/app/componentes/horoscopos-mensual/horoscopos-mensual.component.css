@@ -64,3 +64,7 @@ mat-hint{
 ::ng-deep .mat-icon-button.mat-button-disabled.mat-button-disabled {
   color: white;
 }
+
+::ng-deep .mat-form-field-appearance-outline .mat-form-field-outline {
+  color: rgb(255 255 255);
+}
