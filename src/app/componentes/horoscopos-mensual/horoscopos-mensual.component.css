@@ -33,6 +33,12 @@ mat-tab-group{
 ::ng-deep .mat-calendar, .mat-calendar-table-header {
   background: rgb(6, 6, 6);
   color: white;
+    border-style: solid;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-color: #ebe8e8;
 }
 mat-label{
   color: white;
