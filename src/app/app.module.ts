@@ -54,6 +54,7 @@ import {OverlayModule} from '@angular/cdk/overlay';
 import {CdkMenuModule} from '@angular/cdk/menu';
 import {DialogModule} from '@angular/cdk/dialog';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
+import { PruebaComponent } from './componentes/prueba/prueba.component';
 
 
 
@@ -61,7 +62,8 @@ import { FormsModule, ReactiveFormsModule } from '@angular/forms';
   declarations: [
     AppComponent,
     HoroscoposMensualComponent,
-    HoroscoposHistoricoComponent
+    HoroscoposHistoricoComponent,
+    PruebaComponent
   ],
   imports: [
     BrowserModule,
