@@ -55,6 +55,18 @@ import {CdkMenuModule} from '@angular/cdk/menu';
 import {DialogModule} from '@angular/cdk/dialog';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { PruebaComponent } from './componentes/prueba/prueba.component';
+import { AcuarioComponent } from './componentes/acuario/acuario.component';
+import { AriesComponent } from './componentes/aries/aries.component';
+import { CancerComponent } from './componentes/cancer/cancer.component';
+import { CapricornioComponent } from './componentes/capricornio/capricornio.component';
+import { EscorpioComponent } from './componentes/escorpio/escorpio.component';
+import { GeminisComponent } from './componentes/geminis/geminis.component';
+import { LeoComponent } from './componentes/leo/leo.component';
+import { LibraComponent } from './componentes/libra/libra.component';
+import { PiscisComponent } from './componentes/piscis/piscis.component';
+import { SagitarioComponent } from './componentes/sagitario/sagitario.component';
+import { TauroComponent } from './componentes/tauro/tauro.component';
+import { VirgoComponent } from './componentes/virgo/virgo.component';
 
 
 
@@ -63,7 +75,19 @@ import { PruebaComponent } from './componentes/prueba/prueba.component';
     AppComponent,
     HoroscoposMensualComponent,
     HoroscoposHistoricoComponent,
-    PruebaComponent
+    PruebaComponent,
+    AcuarioComponent,
+    AriesComponent,
+    CancerComponent,
+    CapricornioComponent,
+    EscorpioComponent,
+    GeminisComponent,
+    LeoComponent,
+    LibraComponent,
+    PiscisComponent,
+    SagitarioComponent,
+    TauroComponent,
+    VirgoComponent
   ],
   imports: [
     BrowserModule,

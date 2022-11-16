@@ -1,0 +1,76 @@
+mat-tab-group{
+  background-color: black;
+  color: white;
+}
+
+.colInfo{
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+}
+
+/* .horoscopo{
+  background-color: black;
+
+} */
+
+.demo-inline-calendar-card {
+  width: 300px;
+}
+
+
+::ng-deep .mat-datepicker-toggle {
+  color: rgb(255, 255, 255);
+}
+::ng-deep datepicker-value-example .mat-form-field-label {
+  color: rgb(255, 255, 255);
+}
+
+::ng-deep .mat-calendar-body-cell-content,
+.mat-date-range-input-separator {
+  color: rgb(247, 239, 239);
+}
+
+::ng-deep .mat-calendar, .mat-calendar-table-header {
+  background: rgb(6, 6, 6);
+  color: white;
+    border-style: solid;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-color: #ebe8e8;
+}
+mat-label{
+  color: white;
+}
+
+input{
+  color: white;
+}
+
+mat-hint{
+  color: white;
+}
+::ng-deep .mat-calendar-table-header, .mat-calendar-body-label {
+  color: rgb(255 255 255);
+}
+
+::ng-deep .mat-calendar-body-label {
+  color: rgb(255 255 255);
+}
+
+::ng-deep .mat-calendar-body-disabled>.mat-calendar-body-cell-content:not(.mat-calendar-body-selected):not(.mat-calendar-body-comparison-identical) {
+  color: rgb(255 253 253 / 50%);
+}
+
+::ng-deep .mat-datepicker-content .mat-calendar-previous-button{
+  color: rgb(255 255 255);
+}
+
+::ng-deep .mat-icon-button.mat-button-disabled.mat-button-disabled {
+  color: white;
+}
+
+::ng-deep .mat-form-field-appearance-outline .mat-form-field-outline {
+  color: rgb(255 255 255);
+}

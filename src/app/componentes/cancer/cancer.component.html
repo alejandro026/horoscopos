@@ -1,0 +1,34 @@
+<div class="col horoscopo">
+  <div class="row">
+    <div class="col">
+
+      <mat-form-field appearance="outline">
+        <mat-label>Selecciona el dia...</mat-label>
+        <input matInput [matDatepicker]="picker" [(ngModel)]="selected" [max]="fechaMaxima">
+        <mat-hint>MM/DD/YYYY</mat-hint>
+        <mat-datepicker-toggle matSuffix [for]="picker"></mat-datepicker-toggle>
+        <mat-datepicker #picker ></mat-datepicker>
+      </mat-form-field>
+
+      <a mat-mini-fab [routerLink]="'/historico'">Link</a>
+
+    </div>
+    <div class="col colInfo">
+      <div class="row" *ngIf="selected!=null">
+        <h2 style="text-align: center; color: white;">Horoscolo del dia {{selected | date: 'dd/MM/yyyy'}}</h2>
+        <div class="row" style="text-align: center; margin-left: 40%; margin-right: 40%;">
+          <img src="{{hoscopoAries[selected.getDate()!-1].imagen}}">
+        </div>
+        <div class="row">
+          <div class="col-3">
+          </div>
+          <div class="col-3">
+            <p style="text-align: justify; margin-left: 35%; margin-right: 35%; color: white;">
+              {{hoscopoAries[selected.getDate()!-1].informacion}}
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
