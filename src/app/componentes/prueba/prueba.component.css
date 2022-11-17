@@ -1,0 +1,18 @@
+.example-card {
+  max-width: 400px;
+  margin-bottom: 8px;
+}
+
+.col {
+  flex: 0 0%;
+}
+
+
+.cont{
+  background-color: black;
+}
+
+.card-body {
+  background: black;
+  color: white;
+}

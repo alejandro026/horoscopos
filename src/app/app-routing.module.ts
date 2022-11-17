@@ -32,6 +32,7 @@ const routes: Routes = [
   { path: 'sagitario', component:  SagitarioComponent},
   { path: 'tauro', component:  TauroComponent},
   { path: 'virgo', component:  VirgoComponent},
+  { path: 'prueba', component:  PruebaComponent},
 ];
 
 @NgModule({

@@ -69,6 +69,9 @@ import { TauroComponent } from './componentes/tauro/tauro.component';
 import { VirgoComponent } from './componentes/virgo/virgo.component';
 
 
+import {HttpClientModule} from '@angular/common/http';
+
+
 
 @NgModule({
   declarations: [
@@ -145,7 +148,8 @@ import { VirgoComponent } from './componentes/virgo/virgo.component';
     ScrollingModule,
     DialogModule,
     FormsModule,
-    ReactiveFormsModule
+    ReactiveFormsModule,
+    HttpClientModule
 
   ],
   providers: [],
