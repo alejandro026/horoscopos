@@ -11,7 +11,6 @@ import { CancerComponent } from './componentes/cancer/cancer.component';
 import { AriesComponent } from './componentes/aries/aries.component';
 import { AcuarioComponent } from './componentes/acuario/acuario.component';
 import { PruebaComponent } from './componentes/prueba/prueba.component';
-import { HoroscoposHistoricoComponent } from './componentes/horoscopos-historico/horoscopos-historico.component';
 import { HoroscoposMensualComponent } from './componentes/horoscopos-mensual/horoscopos-mensual.component';
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
@@ -19,7 +18,6 @@ import { RouterModule, Routes } from '@angular/router';
 const routes: Routes = [
   { path: '', component: HoroscoposMensualComponent },
   { path: 'horoscopos', component: HoroscoposMensualComponent },
-  { path: 'historico', component:  HoroscoposHistoricoComponent},
   { path: 'acuario', component:  AcuarioComponent},
   { path: 'aries', component:  AriesComponent},
   { path: 'cancer', component:  CancerComponent},

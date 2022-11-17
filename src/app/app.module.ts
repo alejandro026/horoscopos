@@ -6,7 +6,6 @@ import { AppComponent } from './app.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { HoroscoposMensualComponent } from './componentes/horoscopos-mensual/horoscopos-mensual.component';
 import {MatExpansionModule} from '@angular/material/expansion';
-import { HoroscoposHistoricoComponent } from './componentes/horoscopos-historico/horoscopos-historico.component';
 import {MatTabsModule} from '@angular/material/tabs';
 import {MatDatepickerModule} from '@angular/material/datepicker';
 
@@ -77,7 +76,6 @@ import {HttpClientModule} from '@angular/common/http';
   declarations: [
     AppComponent,
     HoroscoposMensualComponent,
-    HoroscoposHistoricoComponent,
     PruebaComponent,
     AcuarioComponent,
     AriesComponent,
