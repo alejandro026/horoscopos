@@ -78,3 +78,23 @@ mat-hint{
 ::ng-deep .mat-form-field-appearance-outline .mat-form-field-outline {
   color: rgb(255 255 255);
 }
+
+
+.example-card {
+  max-width: 400px;
+  margin-bottom: 8px;
+}
+
+.col {
+  flex: 0 0%;
+}
+
+
+.cont{
+  background-color: black;
+}
+
+.card-body {
+  background: black;
+  color: white;
+}
