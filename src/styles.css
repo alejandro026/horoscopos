@@ -11,3 +11,8 @@ background-color: black; }
 html::-webkit-scrollbar {
   width: 0px; /* For Chrome, Safari, and Opera */
 }
+
+.columnalikes{
+  width: 100%; display: flex;
+  justify-content: center;
+}
