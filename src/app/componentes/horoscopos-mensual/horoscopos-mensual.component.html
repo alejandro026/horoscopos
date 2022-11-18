@@ -16,8 +16,10 @@
     <div class="colInfo">
       <div class="row" *ngIf="selected!=null">
         <h2 style="text-align: center; color: white;">Horóscopo del dia {{selected | date: 'dd/MM/yyyy'}}</h2>
-        <div class="row" style="text-align: center; margin-left: 40%; margin-right: 40%;">
-          <img src="{{hoscopoAries[selected.getDate()!-1].imagen}}">
+        <div class="row">
+          <div class="col" style="text-align: center; margin-left: 40%; margin-right: 40%;">
+            <img src="{{hoscopoAries[selected.getDate()!-1].imagen}}">
+          </div>
         </div>
         <div class="row">
           <div class="col-3-md">
