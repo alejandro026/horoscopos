@@ -3,6 +3,10 @@ mat-tab-group{
   color: white;
 }
 
+.horoscopo{
+  background-color: black;
+}
+
 .colInfo{
   font-family: 'Roboto', sans-serif;
   font-size: 16px;

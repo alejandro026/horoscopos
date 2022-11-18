@@ -13,17 +13,17 @@
 
 
     </div>
-    <div class="col colInfo">
+    <div class="colInfo">
       <div class="row" *ngIf="selected!=null">
-        <h2 style="text-align: center; color: white;">Horoscolo del dia {{selected | date: 'dd/MM/yyyy'}}</h2>
+        <h2 style="text-align: center; color: white;">Horóscopo del dia {{selected | date: 'dd/MM/yyyy'}}</h2>
         <div class="row" style="text-align: center; margin-left: 40%; margin-right: 40%;">
           <img src="{{hoscopoAries[selected.getDate()!-1].imagen}}">
         </div>
         <div class="row">
-          <div class="col-3">
+          <div class="col-3-md">
           </div>
-          <div class="col-3">
-            <p style="text-align: justify; margin-left: 35%; margin-right: 35%; color: white;">
+          <div class="col-3-md">
+            <p style="text-align: justify; margin-left: 40%; margin-right: 40%; color: white;">
               {{hoscopoAries[selected.getDate()!-1].informacion}}
             </p>
           </div>
