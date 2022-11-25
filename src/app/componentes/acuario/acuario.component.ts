@@ -135,8 +135,8 @@ export class AcuarioComponent implements OnInit {
      },
      {
       dia:25,
-      imagen:"https://lh4.googleusercontent.com/R0PuR67S6mrtftsICkCfWfXQKjhLmpyl1leegrDVS9T6jSB9Wl6-WrfqFrxTt7naodqdkTqYVb4kxLPvor57Zd4=w1280",
-       informacion:""
+      imagen:"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.SQxe0xmB0NkE4O9oEkiTbgHaFj%26pid%3DApi&f=1&ipt=5ffacdfb2c2ffb1edc6e0b64aaf47ab28509a0032c3af9215ff6085ae8fc3a66&ipo=images",
+       informacion:"No dejes que tu acostumbrada impaciencia acabe con tus posibilidades de alcanzar el éxito en tu vida profesional."
      },
      {
       dia:26,
