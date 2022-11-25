@@ -16,32 +16,32 @@ export class LibraComponent implements OnInit {
     {
      dia:1,
       imagen:"https://lh5.googleusercontent.com/vlaGhSqcfutdxQVpOUqkl3WO-3ywNtAosBOGBA5BYogj1TcwRe1K89BQBPqnuH5k-mfmRpqkFz6l2wwPIRqCdm34RxYRk0dof8GiiNsAJIBErZrb85BNtk1CXzPIFbiQrh1WSch0F1GPDe8nV7Rjqw",
-      informacion:"Te surgirá una propuesta interesante pero deberás dar una respuesta hoy mismo. No lo pienses demasiado y di que sí, te conviene."
+      informacion:"Las ganas de renovarte y de verte distinto se hacen presentes. Empezar por un cambio en tu cabello puede ser el primer paso. Disfruta de las cosas que se hacen de a dos: es la compañía ideal para ir de compras, visitar tiendas, eso sí, no debemos pedir precios ya que son pura distinción. "
     },
     {
      dia:2,
       imagen:"https://lh5.googleusercontent.com/vlaGhSqcfutdxQVpOUqkl3WO-3ywNtAosBOGBA5BYogj1TcwRe1K89BQBPqnuH5k-mfmRpqkFz6l2wwPIRqCdm34RxYRk0dof8GiiNsAJIBErZrb85BNtk1CXzPIFbiQrh1WSch0F1GPDe8nV7Rjqw",
-      informacion:"Esta semana debes cuidar y medir tus gastos, no presiones demasiado rápido el botón de ‘comprar’ y mejor, tómate un par de días para valorar tu elección, quizá al final decidas no comprar nada. Es una semana ideal para realizar cualquier tipo de investigación."
+      informacion:"Puedes mejorar mucho la energía de tu hogar al cambiar el orden y ciertas normas que no están funcionando del todo, esto gracias a que Plutón se posa en tu casa  y con él puedes cambiar las cosas de maneras mucho más sencillas y radicales. Busca conectar con lo más íntimo y emotivo en ti y vas a poder desde ahí trabajar el amor propio, esto mediante la influencia de la Luna y Saturno que en tu casa te hacen trabajar en apreciarte a ti mismo y tus talentos."
     },
     {
      dia:3,
       imagen:"https://lh5.googleusercontent.com/vlaGhSqcfutdxQVpOUqkl3WO-3ywNtAosBOGBA5BYogj1TcwRe1K89BQBPqnuH5k-mfmRpqkFz6l2wwPIRqCdm34RxYRk0dof8GiiNsAJIBErZrb85BNtk1CXzPIFbiQrh1WSch0F1GPDe8nV7Rjqw",
-      informacion:"Generalmente, tu mente siempre está atraída por pensar en los planes y en todo lo que podrías impulsar y construir. A veces, esto hace que te demores en finalizar viejos proyectos o pendientes. "
+      informacion:" "
     },
     {
      dia:4,
       imagen:"https://lh5.googleusercontent.com/vlaGhSqcfutdxQVpOUqkl3WO-3ywNtAosBOGBA5BYogj1TcwRe1K89BQBPqnuH5k-mfmRpqkFz6l2wwPIRqCdm34RxYRk0dof8GiiNsAJIBErZrb85BNtk1CXzPIFbiQrh1WSch0F1GPDe8nV7Rjqw",
-      informacion:"La unión que hoy lograrán la Luna y Júpiter provocará intensidad en tus relaciones o encuentros con personas que causen impacto en tu vida. Esto será por una actividad profunda en tu interior que te ayudará a comprender el funcionamiento de las relaciones, tanto en lo que respecta a las motivaciones internas de los demás como en las tuyas propias."
+      informacion:""
     },
     {
      dia:5,
       imagen:"https://lh5.googleusercontent.com/vlaGhSqcfutdxQVpOUqkl3WO-3ywNtAosBOGBA5BYogj1TcwRe1K89BQBPqnuH5k-mfmRpqkFz6l2wwPIRqCdm34RxYRk0dof8GiiNsAJIBErZrb85BNtk1CXzPIFbiQrh1WSch0F1GPDe8nV7Rjqw",
-      informacion:"Hoy será un día en el que te favorecerá mantenerte tranquilo frente a las situaciones inesperadas que podrían presentarse. Esto será por la oposición entre Venus y Urano que en tu horóscopo podría generarte cambios financieros y emocionales."
+      informacion:""
     },
     {
      dia:6,
       imagen:"https://lh5.googleusercontent.com/vlaGhSqcfutdxQVpOUqkl3WO-3ywNtAosBOGBA5BYogj1TcwRe1K89BQBPqnuH5k-mfmRpqkFz6l2wwPIRqCdm34RxYRk0dof8GiiNsAJIBErZrb85BNtk1CXzPIFbiQrh1WSch0F1GPDe8nV7Rjqw",
-      informacion:"Hoy el Sol continuará su paso por Escorpio y para ti será una muy buena oportunidad para reajustar las decisiones que has tomado en los últimos meses basadas en tensiones y los miedos al cambio. También para corregir algunas reacciones que has tenido por no saber aceptar los cuestionamientos de los demás hacia ti."
+      informacion:""
     },
     {
      dia:7,
@@ -131,7 +131,7 @@ export class LibraComponent implements OnInit {
      {
       dia:24,
       imagen:"https://lh5.googleusercontent.com/vlaGhSqcfutdxQVpOUqkl3WO-3ywNtAosBOGBA5BYogj1TcwRe1K89BQBPqnuH5k-mfmRpqkFz6l2wwPIRqCdm34RxYRk0dof8GiiNsAJIBErZrb85BNtk1CXzPIFbiQrh1WSch0F1GPDe8nV7Rjqw",
-       informacion:"Aries, según nos indica tu horóscopo, te conviene mantener la energía de tu regente Marte a raya ya que desde la casa de las comunicaciones y en estado de retrogradación no será algo positivo para ti el que sus efectos los manifiestes en tu vida."
+       informacion:"Estás viendo ciertas cosas por el lado negativo pero tú crees que sólo te pasa porque eres realista. Aunque es bueno mantener a diario los pies en el suelo, no pienses que las cosas con las que sueñas son imposibles. No dejes esta lucha porque te dará resultados. En el terreno sentimental, si hoy sientes que la actitud de tu pareja es algo más fría que anteriormente, pueda que se deba a que os falta un poquitín de pasión."
      },
      {
       dia:25,
