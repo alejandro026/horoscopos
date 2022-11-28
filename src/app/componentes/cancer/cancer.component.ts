@@ -15,153 +15,153 @@ export class CancerComponent implements OnInit {
   hoscopoAries=[
     {
      dia:1,
-      imagen:"https://lh4.googleusercontent.com/NPvCpC03-kI6XeIFfUqd4XEFAYtX6Vhm8HdU4RUwNk_Gxi5VetwtyuE5-eBNAsD0SW1vzlJSn-3ky7m1rEXB0-MwN5SY_QijVCrHz0PhWjVCjyFpHjdL05UZVK4TkFarjaC825hXdYr46lSt7VcDZw",
-      informacion:"Te surgirá una propuesta interesante pero deberás dar una respuesta hoy mismo. No lo pienses demasiado y di que sí, te conviene."
+      imagen:"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.WAkXkZ6mw3FqSajDcCkAqQHaHa%26pid%3DApi&f=1&ipt=796e63c79d4d6df68fa00d9247b90e145f51c09416403563949f78c646c03913&ipo=images",
+      informacion:"Hay ironía en la situación actual, Cáncer. El único remedio real para situaciones como esta es aceptarlos y bromear al respecto. Si intentas tomarte demasiado en serio, especialmente cuando se trata de arte o romance, inevitablemente fracasarás."
     },
     {
      dia:2,
-      imagen:"https://lh4.googleusercontent.com/NPvCpC03-kI6XeIFfUqd4XEFAYtX6Vhm8HdU4RUwNk_Gxi5VetwtyuE5-eBNAsD0SW1vzlJSn-3ky7m1rEXB0-MwN5SY_QijVCrHz0PhWjVCjyFpHjdL05UZVK4TkFarjaC825hXdYr46lSt7VcDZw",
-      informacion:"Esta semana debes cuidar y medir tus gastos, no presiones demasiado rápido el botón de ‘comprar’ y mejor, tómate un par de días para valorar tu elección, quizá al final decidas no comprar nada. Es una semana ideal para realizar cualquier tipo de investigación."
+      imagen:"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.WAkXkZ6mw3FqSajDcCkAqQHaHa%26pid%3DApi&f=1&ipt=796e63c79d4d6df68fa00d9247b90e145f51c09416403563949f78c646c03913&ipo=images",
+      informacion:"Las visitas cortas en su vecindario podrían catapultarlo a algunas situaciones negativas, Cáncer. Es mejor quedarse cerca de casa si puede. Una carta o llamada enojada podría ponerte de mal humor. Este no es un día para socializar."
     },
     {
      dia:3,
-      imagen:"https://lh4.googleusercontent.com/NPvCpC03-kI6XeIFfUqd4XEFAYtX6Vhm8HdU4RUwNk_Gxi5VetwtyuE5-eBNAsD0SW1vzlJSn-3ky7m1rEXB0-MwN5SY_QijVCrHz0PhWjVCjyFpHjdL05UZVK4TkFarjaC825hXdYr46lSt7VcDZw",
-      informacion:"Generalmente, tu mente siempre está atraída por pensar en los planes y en todo lo que podrías impulsar y construir. A veces, esto hace que te demores en finalizar viejos proyectos o pendientes. "
+      imagen:"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.WAkXkZ6mw3FqSajDcCkAqQHaHa%26pid%3DApi&f=1&ipt=796e63c79d4d6df68fa00d9247b90e145f51c09416403563949f78c646c03913&ipo=images",
+      informacion:"Cáncer, ocultas tus necesidades emocionales de los demás. Debe poder confiar en alguien para compartir sus sentimientos."
     },
     {
      dia:4,
-      imagen:"https://lh4.googleusercontent.com/NPvCpC03-kI6XeIFfUqd4XEFAYtX6Vhm8HdU4RUwNk_Gxi5VetwtyuE5-eBNAsD0SW1vzlJSn-3ky7m1rEXB0-MwN5SY_QijVCrHz0PhWjVCjyFpHjdL05UZVK4TkFarjaC825hXdYr46lSt7VcDZw",
-      informacion:"La unión que hoy lograrán la Luna y Júpiter provocará intensidad en tus relaciones o encuentros con personas que causen impacto en tu vida. Esto será por una actividad profunda en tu interior que te ayudará a comprender el funcionamiento de las relaciones, tanto en lo que respecta a las motivaciones internas de los demás como en las tuyas propias."
+      imagen:"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.WAkXkZ6mw3FqSajDcCkAqQHaHa%26pid%3DApi&f=1&ipt=796e63c79d4d6df68fa00d9247b90e145f51c09416403563949f78c646c03913&ipo=images",
+      informacion:"Las configuraciones planetarias de hoy indican que puede esperar un período muy rentable, Cáncer. Has trabajado duro últimamente, y es natural que finalmente llegues a esta etapa."
     },
     {
      dia:5,
-      imagen:"https://lh4.googleusercontent.com/NPvCpC03-kI6XeIFfUqd4XEFAYtX6Vhm8HdU4RUwNk_Gxi5VetwtyuE5-eBNAsD0SW1vzlJSn-3ky7m1rEXB0-MwN5SY_QijVCrHz0PhWjVCjyFpHjdL05UZVK4TkFarjaC825hXdYr46lSt7VcDZw",
-      informacion:"Hoy será un día en el que te favorecerá mantenerte tranquilo frente a las situaciones inesperadas que podrían presentarse. Esto será por la oposición entre Venus y Urano que en tu horóscopo podría generarte cambios financieros y emocionales."
+      imagen:"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.WAkXkZ6mw3FqSajDcCkAqQHaHa%26pid%3DApi&f=1&ipt=796e63c79d4d6df68fa00d9247b90e145f51c09416403563949f78c646c03913&ipo=images",
+      informacion:"Este es un día muy espiritual y creativo para ti, Cancer. Eres especialmente intuitivo. Cualquier esfuerzo creativo probablemente resonará profundamente. Incluso si no sientes que tienes el talento para ello, ¿por qué no probar alguna forma de expresión artística? Podrías incursionar con un pincel o hacer notas en un diario. "
     },
     {
      dia:6,
-      imagen:"https://lh4.googleusercontent.com/NPvCpC03-kI6XeIFfUqd4XEFAYtX6Vhm8HdU4RUwNk_Gxi5VetwtyuE5-eBNAsD0SW1vzlJSn-3ky7m1rEXB0-MwN5SY_QijVCrHz0PhWjVCjyFpHjdL05UZVK4TkFarjaC825hXdYr46lSt7VcDZw",
-      informacion:"Hoy el Sol continuará su paso por Escorpio y para ti será una muy buena oportunidad para reajustar las decisiones que has tomado en los últimos meses basadas en tensiones y los miedos al cambio. También para corregir algunas reacciones que has tenido por no saber aceptar los cuestionamientos de los demás hacia ti."
+      imagen:"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.WAkXkZ6mw3FqSajDcCkAqQHaHa%26pid%3DApi&f=1&ipt=796e63c79d4d6df68fa00d9247b90e145f51c09416403563949f78c646c03913&ipo=images",
+      informacion:"No es una buena idea tratar de encajar a las personas en un molde hoy, Cancer. Esto solo molestará a los demás y lo frustrará. Es importante que te relajes y simplemente dejes que las personas florezcan en las personas que quieren ser. "
     },
     {
      dia:7,
-      imagen:"https://lh4.googleusercontent.com/NPvCpC03-kI6XeIFfUqd4XEFAYtX6Vhm8HdU4RUwNk_Gxi5VetwtyuE5-eBNAsD0SW1vzlJSn-3ky7m1rEXB0-MwN5SY_QijVCrHz0PhWjVCjyFpHjdL05UZVK4TkFarjaC825hXdYr46lSt7VcDZw",
-      informacion:"Hace tiempo que Saturno te motiva a realizar toda una renovación de las personas que te rodean y con quienes compartes los temas que te estimulan a construir un mundo mejor. Como consecuencia de esto, se te han acercado gente de otros grupos, los has integrado con tus amistades y así tu vida social se fue activando de una nueva manera."
+      imagen:"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.WAkXkZ6mw3FqSajDcCkAqQHaHa%26pid%3DApi&f=1&ipt=796e63c79d4d6df68fa00d9247b90e145f51c09416403563949f78c646c03913&ipo=images",
+      informacion:" Es importante que abandones el mito de que no tienes regalos ni talentos, Cáncer. Considera pensar en tus talentos de la misma manera que piensas en tu cuerpo."
     },
     {
      dia:8,
-      imagen:"https://lh4.googleusercontent.com/NPvCpC03-kI6XeIFfUqd4XEFAYtX6Vhm8HdU4RUwNk_Gxi5VetwtyuE5-eBNAsD0SW1vzlJSn-3ky7m1rEXB0-MwN5SY_QijVCrHz0PhWjVCjyFpHjdL05UZVK4TkFarjaC825hXdYr46lSt7VcDZw",
-      informacion:"Hoy experimentarás el último Eclipse del año y será muy significativo porque se encargará de cerrar una etapa y de este modo prepararte para un nuevo periodo que podría ser mucho más positivo, si te preparas bien. Este evento cósmico será total y en tu horóscopo lo sentirás en el área relacionada con tu economía."
+      imagen:"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.WAkXkZ6mw3FqSajDcCkAqQHaHa%26pid%3DApi&f=1&ipt=796e63c79d4d6df68fa00d9247b90e145f51c09416403563949f78c646c03913&ipo=images",
+      informacion:"Sí, Cáncer, este es un buen momento para abandonar viejas creencias y valores morales. Su visión de la vida ha cambiado y, sobre todo, es más consciente de cómo sus ideas anticuadas y preconcebidas a veces envenenan su vida."
     },
     {
      dia:9,
-      imagen:"https://lh4.googleusercontent.com/NPvCpC03-kI6XeIFfUqd4XEFAYtX6Vhm8HdU4RUwNk_Gxi5VetwtyuE5-eBNAsD0SW1vzlJSn-3ky7m1rEXB0-MwN5SY_QijVCrHz0PhWjVCjyFpHjdL05UZVK4TkFarjaC825hXdYr46lSt7VcDZw",
-      informacion:"A la fuerte influencia del eclipse, hoy el cosmos te seguirá generando cancelaciones e imprevistos, por tal motivo no tendrás más opción que renovar los planes que tenías de reuniones de trabajo."
+      imagen:"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.WAkXkZ6mw3FqSajDcCkAqQHaHa%26pid%3DApi&f=1&ipt=796e63c79d4d6df68fa00d9247b90e145f51c09416403563949f78c646c03913&ipo=images",
+      informacion:"No siempre es fácil pensar en cómo va tu vida, Cáncer. Imagínese si estuviera solo en el mundo, sin nada que lo detenga o lo obligue a hacer nada. Al menos una vez al mes, dedica una hora a visualizar cómo sería tu vida en estas condiciones. "
     },
     {
      dia:10,
-      imagen:"https://lh4.googleusercontent.com/NPvCpC03-kI6XeIFfUqd4XEFAYtX6Vhm8HdU4RUwNk_Gxi5VetwtyuE5-eBNAsD0SW1vzlJSn-3ky7m1rEXB0-MwN5SY_QijVCrHz0PhWjVCjyFpHjdL05UZVK4TkFarjaC825hXdYr46lSt7VcDZw",
-      informacion:"Venus muy pocas veces se combina favorablemente con Neptuno, y hoy será una de esas pocas oportunidades generándote un día de mucho optimismo. Tu entusiasmo y excitación por cumplir tus sueños será muy alto y te sentirás totalmente listo para concretar las mejoras laborales que deseas."
+      imagen:"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.WAkXkZ6mw3FqSajDcCkAqQHaHa%26pid%3DApi&f=1&ipt=796e63c79d4d6df68fa00d9247b90e145f51c09416403563949f78c646c03913&ipo=images",
+      informacion:"Incluso si es cierto en general que el Cáncer tiene cuerpos fuertes como usted, hay momentos en que es importante que se cuiden solos. Este sería un día ideal para ser más conscientes de ese hecho. No es que tengas problemas de salud. "
     },
     {
      dia:11,
-      imagen:"https://lh4.googleusercontent.com/NPvCpC03-kI6XeIFfUqd4XEFAYtX6Vhm8HdU4RUwNk_Gxi5VetwtyuE5-eBNAsD0SW1vzlJSn-3ky7m1rEXB0-MwN5SY_QijVCrHz0PhWjVCjyFpHjdL05UZVK4TkFarjaC825hXdYr46lSt7VcDZw",
-      informacion:"En el horóscopo de hoy, viernes 11 de noviembre, el Sol se cruza en el camino de Saturno, astro relacionado con los impedimentos y demoras, dándote la sensación de estar muy alejado de tus metas; por eso, te recomiendo mantener la calma y no enojarte. Es un día para reflexionar sobre los cambios a realizar."
+      imagen:"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.WAkXkZ6mw3FqSajDcCkAqQHaHa%26pid%3DApi&f=1&ipt=796e63c79d4d6df68fa00d9247b90e145f51c09416403563949f78c646c03913&ipo=images",
+      informacion:"Puede sentirse deslizándose en un entendimiento más profundo con un amigo cercano o un ser querido, Cancer. Las situaciones románticas se están calentando, y lentamente está dejando que sus inhibiciones se desvanezcan para que estén completamente ausentes."
     },
     {
       dia:12,
-      imagen:"https://lh4.googleusercontent.com/NPvCpC03-kI6XeIFfUqd4XEFAYtX6Vhm8HdU4RUwNk_Gxi5VetwtyuE5-eBNAsD0SW1vzlJSn-3ky7m1rEXB0-MwN5SY_QijVCrHz0PhWjVCjyFpHjdL05UZVK4TkFarjaC825hXdYr46lSt7VcDZw",
-       informacion:"Podrías recibir un mensaje o una llamada molesta, pero no te preocupes porque sabrás manejar la situación para que nadie indeseable se entrometa en tu vida. En las conversaciones que entables no trates de imponer tu punto de vista y piensa dos veces antes de hablar."
+      imagen:"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.WAkXkZ6mw3FqSajDcCkAqQHaHa%26pid%3DApi&f=1&ipt=796e63c79d4d6df68fa00d9247b90e145f51c09416403563949f78c646c03913&ipo=images",
+       informacion:"Su sentido de responsabilidad es probablemente el catalizador de la mayor parte de su motivación, Cáncer. Pero, ¿qué sucede cuando los eventos están fuera de tu control y eres incapaz de hacer algo al respecto? Es posible que tenga que admitir que a veces no puede controlar todo, especialmente su familia y amigos. "
      },
      {
       dia:13,
-      imagen:"https://lh4.googleusercontent.com/NPvCpC03-kI6XeIFfUqd4XEFAYtX6Vhm8HdU4RUwNk_Gxi5VetwtyuE5-eBNAsD0SW1vzlJSn-3ky7m1rEXB0-MwN5SY_QijVCrHz0PhWjVCjyFpHjdL05UZVK4TkFarjaC825hXdYr46lSt7VcDZw",
-       informacion:"No se permita que recuerdos desagradable del pasado se adueñen de sus pensamientos. Entienda que debe vivir el presente y romper con ciertas ataduras añejas."
+      imagen:"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.WAkXkZ6mw3FqSajDcCkAqQHaHa%26pid%3DApi&f=1&ipt=796e63c79d4d6df68fa00d9247b90e145f51c09416403563949f78c646c03913&ipo=images",
+       informacion:"Hoy podría ocurrir mucha actividad en casa, Cancer. Quizás tenga visitantes o trabaje un poco en la casa. Su intuición es particularmente fuerte en este momento, y podría captar demasiados pensamientos y sentimientos de los demás, incluso de extraños."
      },
      {
       dia:14,
-      imagen:"https://lh4.googleusercontent.com/NPvCpC03-kI6XeIFfUqd4XEFAYtX6Vhm8HdU4RUwNk_Gxi5VetwtyuE5-eBNAsD0SW1vzlJSn-3ky7m1rEXB0-MwN5SY_QijVCrHz0PhWjVCjyFpHjdL05UZVK4TkFarjaC825hXdYr46lSt7VcDZw",
-       informacion:"Aries, según nos indica tu horóscopo, te conviene mantener la energía de tu regente Marte a raya ya que desde la casa de las comunicaciones y en estado de retrogradación no será algo positivo para ti el que sus efectos los manifiestes en tu vida."
+      imagen:"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.WAkXkZ6mw3FqSajDcCkAqQHaHa%26pid%3DApi&f=1&ipt=796e63c79d4d6df68fa00d9247b90e145f51c09416403563949f78c646c03913&ipo=images",
+       informacion:"Hoy puede escuchar oportunidades para ganar dinero extra a través de un trabajo creativo de algún tipo, Cancer. Este podría ser un verdadero golpe de suerte logrado al estar en el lugar correcto en el momento correcto. "
      },
      {
       dia:15,
-      imagen:"https://lh4.googleusercontent.com/NPvCpC03-kI6XeIFfUqd4XEFAYtX6Vhm8HdU4RUwNk_Gxi5VetwtyuE5-eBNAsD0SW1vzlJSn-3ky7m1rEXB0-MwN5SY_QijVCrHz0PhWjVCjyFpHjdL05UZVK4TkFarjaC825hXdYr46lSt7VcDZw",
-       informacion:"Aries, según nos indica tu horóscopo, te conviene mantener la energía de tu regente Marte a raya ya que desde la casa de las comunicaciones y en estado de retrogradación no será algo positivo para ti el que sus efectos los manifiestes en tu vida."
+      imagen:"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.WAkXkZ6mw3FqSajDcCkAqQHaHa%26pid%3DApi&f=1&ipt=796e63c79d4d6df68fa00d9247b90e145f51c09416403563949f78c646c03913&ipo=images",
+       informacion:"Con la energía de hoy, es posible que desee dejar que su imaginación se libere por un tiempo, Cáncer. Esto puede agregar un impulso real, ya que lo conectará con su ser interno. Deja que tu imaginación sea tu boleto para tus habilidades creativas y artísticas. Las habilidades para resolver problemas también se pueden acentuar o realizar cuando la mente tiene tiempo para deambular. "
      },
      {
       dia:16,
-      imagen:"https://lh4.googleusercontent.com/NPvCpC03-kI6XeIFfUqd4XEFAYtX6Vhm8HdU4RUwNk_Gxi5VetwtyuE5-eBNAsD0SW1vzlJSn-3ky7m1rEXB0-MwN5SY_QijVCrHz0PhWjVCjyFpHjdL05UZVK4TkFarjaC825hXdYr46lSt7VcDZw",
-       informacion:"Aries, según nos indica tu horóscopo, te conviene mantener la energía de tu regente Marte a raya ya que desde la casa de las comunicaciones y en estado de retrogradación no será algo positivo para ti el que sus efectos los manifiestes en tu vida."
+      imagen:"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.WAkXkZ6mw3FqSajDcCkAqQHaHa%26pid%3DApi&f=1&ipt=796e63c79d4d6df68fa00d9247b90e145f51c09416403563949f78c646c03913&ipo=images",
+       informacion:" Si alguien tarda demasiado en hacer algo hoy, Cáncer, su temperamento puede estallar. La paciencia no siempre es tu fuerte, y puedes creer en la filosofía de si quieres que se haga bien, hazlo tú mismo. Esto no siempre es justo."
      },
      {
       dia:17,
-      imagen:"https://lh4.googleusercontent.com/NPvCpC03-kI6XeIFfUqd4XEFAYtX6Vhm8HdU4RUwNk_Gxi5VetwtyuE5-eBNAsD0SW1vzlJSn-3ky7m1rEXB0-MwN5SY_QijVCrHz0PhWjVCjyFpHjdL05UZVK4TkFarjaC825hXdYr46lSt7VcDZw",
-       informacion:"Aries, según nos indica tu horóscopo, te conviene mantener la energía de tu regente Marte a raya ya que desde la casa de las comunicaciones y en estado de retrogradación no será algo positivo para ti el que sus efectos los manifiestes en tu vida."
+      imagen:"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.WAkXkZ6mw3FqSajDcCkAqQHaHa%26pid%3DApi&f=1&ipt=796e63c79d4d6df68fa00d9247b90e145f51c09416403563949f78c646c03913&ipo=images",
+       informacion:"Tus emociones son sólidas y te sientes bien, Cáncer. Al mismo tiempo, puede estar atado a la lengua. Te está costando expresar tus verdaderos sentimientos de la manera que te gustaría,"
      },
      {
       dia:18,
-      imagen:"https://lh4.googleusercontent.com/NPvCpC03-kI6XeIFfUqd4XEFAYtX6Vhm8HdU4RUwNk_Gxi5VetwtyuE5-eBNAsD0SW1vzlJSn-3ky7m1rEXB0-MwN5SY_QijVCrHz0PhWjVCjyFpHjdL05UZVK4TkFarjaC825hXdYr46lSt7VcDZw",
-       informacion:"Aries, según nos indica tu horóscopo, te conviene mantener la energía de tu regente Marte a raya ya que desde la casa de las comunicaciones y en estado de retrogradación no será algo positivo para ti el que sus efectos los manifiestes en tu vida."
+      imagen:"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.WAkXkZ6mw3FqSajDcCkAqQHaHa%26pid%3DApi&f=1&ipt=796e63c79d4d6df68fa00d9247b90e145f51c09416403563949f78c646c03913&ipo=images",
+       informacion:"Cáncer, estás desmitificando el concepto de talento. Solías mirar con envidia a otras personas y pensar: Desearía tener una habilidad natural como esa."
      },
      {
       dia:19,
-      imagen:"https://lh4.googleusercontent.com/NPvCpC03-kI6XeIFfUqd4XEFAYtX6Vhm8HdU4RUwNk_Gxi5VetwtyuE5-eBNAsD0SW1vzlJSn-3ky7m1rEXB0-MwN5SY_QijVCrHz0PhWjVCjyFpHjdL05UZVK4TkFarjaC825hXdYr46lSt7VcDZw",
-       informacion:"Aries, según nos indica tu horóscopo, te conviene mantener la energía de tu regente Marte a raya ya que desde la casa de las comunicaciones y en estado de retrogradación no será algo positivo para ti el que sus efectos los manifiestes en tu vida."
+      imagen:"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.WAkXkZ6mw3FqSajDcCkAqQHaHa%26pid%3DApi&f=1&ipt=796e63c79d4d6df68fa00d9247b90e145f51c09416403563949f78c646c03913&ipo=images",
+       informacion:"Últimamente, has tenido la sensación de que tu pareja no está atenta. La tensión se ha ido acumulando y hoy, Cáncer, es probable que te desbordes con la ira que proviene de demasiadas dudas y sospechas."
      },
      {
       dia:20,
-      imagen:"https://lh4.googleusercontent.com/NPvCpC03-kI6XeIFfUqd4XEFAYtX6Vhm8HdU4RUwNk_Gxi5VetwtyuE5-eBNAsD0SW1vzlJSn-3ky7m1rEXB0-MwN5SY_QijVCrHz0PhWjVCjyFpHjdL05UZVK4TkFarjaC825hXdYr46lSt7VcDZw",
-       informacion:"Aries, según nos indica tu horóscopo, te conviene mantener la energía de tu regente Marte a raya ya que desde la casa de las comunicaciones y en estado de retrogradación no será algo positivo para ti el que sus efectos los manifiestes en tu vida."
+      imagen:"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.WAkXkZ6mw3FqSajDcCkAqQHaHa%26pid%3DApi&f=1&ipt=796e63c79d4d6df68fa00d9247b90e145f51c09416403563949f78c646c03913&ipo=images",
+       informacion:" Existe la posibilidad de que algo que necesita o quiere haya estado eludiendo su comprensión. El aspecto algo tenso de los cielos últimamente no ha ayudado. "
      },
      {
       dia:21,
-      imagen:"https://lh4.googleusercontent.com/NPvCpC03-kI6XeIFfUqd4XEFAYtX6Vhm8HdU4RUwNk_Gxi5VetwtyuE5-eBNAsD0SW1vzlJSn-3ky7m1rEXB0-MwN5SY_QijVCrHz0PhWjVCjyFpHjdL05UZVK4TkFarjaC825hXdYr46lSt7VcDZw",
-       informacion:"Aries, según nos indica tu horóscopo, te conviene mantener la energía de tu regente Marte a raya ya que desde la casa de las comunicaciones y en estado de retrogradación no será algo positivo para ti el que sus efectos los manifiestes en tu vida."
+      imagen:"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.WAkXkZ6mw3FqSajDcCkAqQHaHa%26pid%3DApi&f=1&ipt=796e63c79d4d6df68fa00d9247b90e145f51c09416403563949f78c646c03913&ipo=images",
+       informacion:" ¿Has estado pensando en expandir tus habilidades informáticas? Si es así, este es el día para hacerlo. Es probable que descubra mucha información valiosa, así como atajos para lograr sus objetivos."
      },
      {
       dia:22,
-      imagen:"https://lh4.googleusercontent.com/NPvCpC03-kI6XeIFfUqd4XEFAYtX6Vhm8HdU4RUwNk_Gxi5VetwtyuE5-eBNAsD0SW1vzlJSn-3ky7m1rEXB0-MwN5SY_QijVCrHz0PhWjVCjyFpHjdL05UZVK4TkFarjaC825hXdYr46lSt7VcDZw",
-       informacion:"Aries, según nos indica tu horóscopo, te conviene mantener la energía de tu regente Marte a raya ya que desde la casa de las comunicaciones y en estado de retrogradación no será algo positivo para ti el que sus efectos los manifiestes en tu vida."
+      imagen:"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.WAkXkZ6mw3FqSajDcCkAqQHaHa%26pid%3DApi&f=1&ipt=796e63c79d4d6df68fa00d9247b90e145f51c09416403563949f78c646c03913&ipo=images",
+       informacion:"Este es el final de la primera etapa en su socialización, Cáncer. ¿Estás satisfecho con las personas que has conocido? Por lo general, puede aprovechar al máximo estos encuentros, pero ¿su conocimiento político lo decepcionó? ¿Te llevó en direcciones a las que no querías ir? Aproveche esta pausa para recuperar el aliento y descubrir dónde se encuentra hoy y dónde quiere estar mañana."
      },
      {
       dia:23,
-      imagen:"https://lh4.googleusercontent.com/NPvCpC03-kI6XeIFfUqd4XEFAYtX6Vhm8HdU4RUwNk_Gxi5VetwtyuE5-eBNAsD0SW1vzlJSn-3ky7m1rEXB0-MwN5SY_QijVCrHz0PhWjVCjyFpHjdL05UZVK4TkFarjaC825hXdYr46lSt7VcDZw",
-       informacion:"Aries, según nos indica tu horóscopo, te conviene mantener la energía de tu regente Marte a raya ya que desde la casa de las comunicaciones y en estado de retrogradación no será algo positivo para ti el que sus efectos los manifiestes en tu vida."
+      imagen:"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.WAkXkZ6mw3FqSajDcCkAqQHaHa%26pid%3DApi&f=1&ipt=796e63c79d4d6df68fa00d9247b90e145f51c09416403563949f78c646c03913&ipo=images",
+       informacion:"Hoy puede ser uno de esos días en los que intentas pintar un área grande, pero solo tienes un pincel pequeño. Sus trazos son cuidadosos y calculados."
      },
      {
       dia:24,
-      imagen:"https://lh4.googleusercontent.com/NPvCpC03-kI6XeIFfUqd4XEFAYtX6Vhm8HdU4RUwNk_Gxi5VetwtyuE5-eBNAsD0SW1vzlJSn-3ky7m1rEXB0-MwN5SY_QijVCrHz0PhWjVCjyFpHjdL05UZVK4TkFarjaC825hXdYr46lSt7VcDZw",
-       informacion:"Aries, según nos indica tu horóscopo, te conviene mantener la energía de tu regente Marte a raya ya que desde la casa de las comunicaciones y en estado de retrogradación no será algo positivo para ti el que sus efectos los manifiestes en tu vida."
+      imagen:"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.WAkXkZ6mw3FqSajDcCkAqQHaHa%26pid%3DApi&f=1&ipt=796e63c79d4d6df68fa00d9247b90e145f51c09416403563949f78c646c03913&ipo=images",
+       informacion:" Es posible que no hayas tenido noticias de un amigo cercano en mucho tiempo y te preocupes un poco, Cáncer. Quizás esta persona no estuvo bien la última vez que hablaste. Si puede, puede ser una buena idea llamar. Sueños extraños e inquietantes podrían afectar tu sueño esta noche, pero no te agites demasiado. No son proféticos de ninguna manera."
      },
      {
       dia:25,
-      imagen:"https://lh4.googleusercontent.com/NPvCpC03-kI6XeIFfUqd4XEFAYtX6Vhm8HdU4RUwNk_Gxi5VetwtyuE5-eBNAsD0SW1vzlJSn-3ky7m1rEXB0-MwN5SY_QijVCrHz0PhWjVCjyFpHjdL05UZVK4TkFarjaC825hXdYr46lSt7VcDZw",
-       informacion:"Aries, según nos indica tu horóscopo, te conviene mantener la energía de tu regente Marte a raya ya que desde la casa de las comunicaciones y en estado de retrogradación no será algo positivo para ti el que sus efectos los manifiestes en tu vida."
+      imagen:"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.WAkXkZ6mw3FqSajDcCkAqQHaHa%26pid%3DApi&f=1&ipt=796e63c79d4d6df68fa00d9247b90e145f51c09416403563949f78c646c03913&ipo=images",
+       informacion:" Ahora es el momento perfecto para decirle algo a alguien que has querido decir durante bastante tiempo, Cáncer. Sácalo a la intemperie. Mantenerlo adentro solo te comerá. Deja de preocuparte por las consecuencias y muévete. Hoy es el momento de ser audaz y agresivo. "
      },
      {
       dia:26,
-      imagen:"https://lh4.googleusercontent.com/NPvCpC03-kI6XeIFfUqd4XEFAYtX6Vhm8HdU4RUwNk_Gxi5VetwtyuE5-eBNAsD0SW1vzlJSn-3ky7m1rEXB0-MwN5SY_QijVCrHz0PhWjVCjyFpHjdL05UZVK4TkFarjaC825hXdYr46lSt7VcDZw",
-       informacion:"Aries, según nos indica tu horóscopo, te conviene mantener la energía de tu regente Marte a raya ya que desde la casa de las comunicaciones y en estado de retrogradación no será algo positivo para ti el que sus efectos los manifiestes en tu vida."
+      imagen:"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.WAkXkZ6mw3FqSajDcCkAqQHaHa%26pid%3DApi&f=1&ipt=796e63c79d4d6df68fa00d9247b90e145f51c09416403563949f78c646c03913&ipo=images",
+       informacion:" Un amigo o familiar está envenenando lentamente su relación, Cáncer. Un malentendido entre ustedes dos finalmente será beneficioso a largo plazo. ¿Por qué? Te hace darte cuenta de lo incómodo que estás con relaciones vagas y mal definidas. "
      },
      {
       dia:27,
-      imagen:"https://lh4.googleusercontent.com/NPvCpC03-kI6XeIFfUqd4XEFAYtX6Vhm8HdU4RUwNk_Gxi5VetwtyuE5-eBNAsD0SW1vzlJSn-3ky7m1rEXB0-MwN5SY_QijVCrHz0PhWjVCjyFpHjdL05UZVK4TkFarjaC825hXdYr46lSt7VcDZw",
-       informacion:"Aries, según nos indica tu horóscopo, te conviene mantener la energía de tu regente Marte a raya ya que desde la casa de las comunicaciones y en estado de retrogradación no será algo positivo para ti el que sus efectos los manifiestes en tu vida."
+      imagen:"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.WAkXkZ6mw3FqSajDcCkAqQHaHa%26pid%3DApi&f=1&ipt=796e63c79d4d6df68fa00d9247b90e145f51c09416403563949f78c646c03913&ipo=images",
+       informacion:"Raramente te sorprende o te molesta el revés ocasional. Hoy, sin embargo, debe poner una mano firme en cualquier proyecto que emprenda. Este no es el momento para una actitud relajada, especialmente en lo que respecta al dinero. Si adopta un enfoque sistemático, tendrá el doble beneficio de conservar tanto la energía como los activos."
      },
      {
       dia:28,
-      imagen:"https://lh4.googleusercontent.com/NPvCpC03-kI6XeIFfUqd4XEFAYtX6Vhm8HdU4RUwNk_Gxi5VetwtyuE5-eBNAsD0SW1vzlJSn-3ky7m1rEXB0-MwN5SY_QijVCrHz0PhWjVCjyFpHjdL05UZVK4TkFarjaC825hXdYr46lSt7VcDZw",
-       informacion:"Aries, según nos indica tu horóscopo, te conviene mantener la energía de tu regente Marte a raya ya que desde la casa de las comunicaciones y en estado de retrogradación no será algo positivo para ti el que sus efectos los manifiestes en tu vida."
+      imagen:"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.WAkXkZ6mw3FqSajDcCkAqQHaHa%26pid%3DApi&f=1&ipt=796e63c79d4d6df68fa00d9247b90e145f51c09416403563949f78c646c03913&ipo=images",
+       informacion:" Asegúrese de solidificar sus asuntos temprano en el día, Cáncer, porque las chispas volarán después del atardecer. La gente podría tratar de desequilibrarte con charlas rápidas e ideas elegantes. Debe asegurarse de estar en tierra firme antes de dar el siguiente paso hacia arriba. Equilibra tus emociones para que no desquites tu frustración con los demás. Concéntrate en tus objetivos."
      },
      {
       dia:29,
-      imagen:"https://lh4.googleusercontent.com/NPvCpC03-kI6XeIFfUqd4XEFAYtX6Vhm8HdU4RUwNk_Gxi5VetwtyuE5-eBNAsD0SW1vzlJSn-3ky7m1rEXB0-MwN5SY_QijVCrHz0PhWjVCjyFpHjdL05UZVK4TkFarjaC825hXdYr46lSt7VcDZw",
-       informacion:"Aries, según nos indica tu horóscopo, te conviene mantener la energía de tu regente Marte a raya ya que desde la casa de las comunicaciones y en estado de retrogradación no será algo positivo para ti el que sus efectos los manifiestes en tu vida."
+      imagen:"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.WAkXkZ6mw3FqSajDcCkAqQHaHa%26pid%3DApi&f=1&ipt=796e63c79d4d6df68fa00d9247b90e145f51c09416403563949f78c646c03913&ipo=images",
+       informacion:"Puede que le resulte difícil rodar hoy, Cáncer. Es probable que estés atrapado en un estancamiento entre tu mente y tu corazón. Tenga cuidado al dejar que esta tensión se acumule. Lo más importante para ti hoy es relajarte."
      },
      {
       dia:30,
-      imagen:"https://lh4.googleusercontent.com/NPvCpC03-kI6XeIFfUqd4XEFAYtX6Vhm8HdU4RUwNk_Gxi5VetwtyuE5-eBNAsD0SW1vzlJSn-3ky7m1rEXB0-MwN5SY_QijVCrHz0PhWjVCjyFpHjdL05UZVK4TkFarjaC825hXdYr46lSt7VcDZw",
-       informacion:"Aries, según nos indica tu horóscopo, te conviene mantener la energía de tu regente Marte a raya ya que desde la casa de las comunicaciones y en estado de retrogradación no será algo positivo para ti el que sus efectos los manifiestes en tu vida."
+      imagen:"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.WAkXkZ6mw3FqSajDcCkAqQHaHa%26pid%3DApi&f=1&ipt=796e63c79d4d6df68fa00d9247b90e145f51c09416403563949f78c646c03913&ipo=images",
+       informacion:"Hoy tendrás algunas complicaciones y experimentarás ciertos disgustos con gente de tu trabajo, lo mejor es evitarlos."
      }
   ]
 
