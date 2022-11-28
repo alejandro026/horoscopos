@@ -81,87 +81,87 @@ export class EscorpioComponent implements OnInit {
      {
       dia:14,
       imagen:"https://lh5.googleusercontent.com/tR1qhbmna0nOchOuSebk-Bn_APSstnY5sdjh3cvh3yeIe5HwuEYSPIp9GRJPFv71iKi5lQa8EFD5w92TmEtrPHiKMrRHXC9jmMLbRDCbJGvL6IAcwWXFDdKVGVmJLeV16zMqjDgcf6liNNHH3isYHA",
-       informacion:"Aries, según nos indica tu horóscopo, te conviene mantener la energía de tu regente Marte a raya ya que desde la casa de las comunicaciones y en estado de retrogradación no será algo positivo para ti el que sus efectos los manifiestes en tu vida."
+       informacion:""
      },
      {
       dia:15,
       imagen:"https://lh5.googleusercontent.com/tR1qhbmna0nOchOuSebk-Bn_APSstnY5sdjh3cvh3yeIe5HwuEYSPIp9GRJPFv71iKi5lQa8EFD5w92TmEtrPHiKMrRHXC9jmMLbRDCbJGvL6IAcwWXFDdKVGVmJLeV16zMqjDgcf6liNNHH3isYHA",
-       informacion:"Aries, según nos indica tu horóscopo, te conviene mantener la energía de tu regente Marte a raya ya que desde la casa de las comunicaciones y en estado de retrogradación no será algo positivo para ti el que sus efectos los manifiestes en tu vida."
+       informacion:""
      },
      {
       dia:16,
       imagen:"https://lh5.googleusercontent.com/tR1qhbmna0nOchOuSebk-Bn_APSstnY5sdjh3cvh3yeIe5HwuEYSPIp9GRJPFv71iKi5lQa8EFD5w92TmEtrPHiKMrRHXC9jmMLbRDCbJGvL6IAcwWXFDdKVGVmJLeV16zMqjDgcf6liNNHH3isYHA",
-       informacion:"Aries, según nos indica tu horóscopo, te conviene mantener la energía de tu regente Marte a raya ya que desde la casa de las comunicaciones y en estado de retrogradación no será algo positivo para ti el que sus efectos los manifiestes en tu vida."
+       informacion:""
      },
      {
       dia:17,
       imagen:"https://lh5.googleusercontent.com/tR1qhbmna0nOchOuSebk-Bn_APSstnY5sdjh3cvh3yeIe5HwuEYSPIp9GRJPFv71iKi5lQa8EFD5w92TmEtrPHiKMrRHXC9jmMLbRDCbJGvL6IAcwWXFDdKVGVmJLeV16zMqjDgcf6liNNHH3isYHA",
-       informacion:"Aries, según nos indica tu horóscopo, te conviene mantener la energía de tu regente Marte a raya ya que desde la casa de las comunicaciones y en estado de retrogradación no será algo positivo para ti el que sus efectos los manifiestes en tu vida."
+       informacion:""
      },
      {
       dia:18,
       imagen:"https://lh5.googleusercontent.com/tR1qhbmna0nOchOuSebk-Bn_APSstnY5sdjh3cvh3yeIe5HwuEYSPIp9GRJPFv71iKi5lQa8EFD5w92TmEtrPHiKMrRHXC9jmMLbRDCbJGvL6IAcwWXFDdKVGVmJLeV16zMqjDgcf6liNNHH3isYHA",
-       informacion:"Aries, según nos indica tu horóscopo, te conviene mantener la energía de tu regente Marte a raya ya que desde la casa de las comunicaciones y en estado de retrogradación no será algo positivo para ti el que sus efectos los manifiestes en tu vida."
+       informacion:""
      },
      {
       dia:19,
       imagen:"https://lh5.googleusercontent.com/tR1qhbmna0nOchOuSebk-Bn_APSstnY5sdjh3cvh3yeIe5HwuEYSPIp9GRJPFv71iKi5lQa8EFD5w92TmEtrPHiKMrRHXC9jmMLbRDCbJGvL6IAcwWXFDdKVGVmJLeV16zMqjDgcf6liNNHH3isYHA",
-       informacion:"Aries, según nos indica tu horóscopo, te conviene mantener la energía de tu regente Marte a raya ya que desde la casa de las comunicaciones y en estado de retrogradación no será algo positivo para ti el que sus efectos los manifiestes en tu vida."
+       informacion:""
      },
      {
       dia:20,
       imagen:"https://lh5.googleusercontent.com/tR1qhbmna0nOchOuSebk-Bn_APSstnY5sdjh3cvh3yeIe5HwuEYSPIp9GRJPFv71iKi5lQa8EFD5w92TmEtrPHiKMrRHXC9jmMLbRDCbJGvL6IAcwWXFDdKVGVmJLeV16zMqjDgcf6liNNHH3isYHA",
-       informacion:"Aries, según nos indica tu horóscopo, te conviene mantener la energía de tu regente Marte a raya ya que desde la casa de las comunicaciones y en estado de retrogradación no será algo positivo para ti el que sus efectos los manifiestes en tu vida."
+       informacion:""
      },
      {
       dia:21,
       imagen:"https://lh5.googleusercontent.com/tR1qhbmna0nOchOuSebk-Bn_APSstnY5sdjh3cvh3yeIe5HwuEYSPIp9GRJPFv71iKi5lQa8EFD5w92TmEtrPHiKMrRHXC9jmMLbRDCbJGvL6IAcwWXFDdKVGVmJLeV16zMqjDgcf6liNNHH3isYHA",
-       informacion:"Aries, según nos indica tu horóscopo, te conviene mantener la energía de tu regente Marte a raya ya que desde la casa de las comunicaciones y en estado de retrogradación no será algo positivo para ti el que sus efectos los manifiestes en tu vida."
+       informacion:""
      },
      {
       dia:22,
       imagen:"https://lh5.googleusercontent.com/tR1qhbmna0nOchOuSebk-Bn_APSstnY5sdjh3cvh3yeIe5HwuEYSPIp9GRJPFv71iKi5lQa8EFD5w92TmEtrPHiKMrRHXC9jmMLbRDCbJGvL6IAcwWXFDdKVGVmJLeV16zMqjDgcf6liNNHH3isYHA",
-       informacion:"Aries, según nos indica tu horóscopo, te conviene mantener la energía de tu regente Marte a raya ya que desde la casa de las comunicaciones y en estado de retrogradación no será algo positivo para ti el que sus efectos los manifiestes en tu vida."
+       informacion:""
      },
      {
       dia:23,
       imagen:"https://lh5.googleusercontent.com/tR1qhbmna0nOchOuSebk-Bn_APSstnY5sdjh3cvh3yeIe5HwuEYSPIp9GRJPFv71iKi5lQa8EFD5w92TmEtrPHiKMrRHXC9jmMLbRDCbJGvL6IAcwWXFDdKVGVmJLeV16zMqjDgcf6liNNHH3isYHA",
-       informacion:"Aries, según nos indica tu horóscopo, te conviene mantener la energía de tu regente Marte a raya ya que desde la casa de las comunicaciones y en estado de retrogradación no será algo positivo para ti el que sus efectos los manifiestes en tu vida."
+       informacion:""
      },
      {
       dia:24,
       imagen:"https://lh5.googleusercontent.com/tR1qhbmna0nOchOuSebk-Bn_APSstnY5sdjh3cvh3yeIe5HwuEYSPIp9GRJPFv71iKi5lQa8EFD5w92TmEtrPHiKMrRHXC9jmMLbRDCbJGvL6IAcwWXFDdKVGVmJLeV16zMqjDgcf6liNNHH3isYHA",
-       informacion:"Aries, según nos indica tu horóscopo, te conviene mantener la energía de tu regente Marte a raya ya que desde la casa de las comunicaciones y en estado de retrogradación no será algo positivo para ti el que sus efectos los manifiestes en tu vida."
+       informacion:""
      },
      {
       dia:25,
       imagen:"https://lh5.googleusercontent.com/tR1qhbmna0nOchOuSebk-Bn_APSstnY5sdjh3cvh3yeIe5HwuEYSPIp9GRJPFv71iKi5lQa8EFD5w92TmEtrPHiKMrRHXC9jmMLbRDCbJGvL6IAcwWXFDdKVGVmJLeV16zMqjDgcf6liNNHH3isYHA",
-       informacion:"Aries, según nos indica tu horóscopo, te conviene mantener la energía de tu regente Marte a raya ya que desde la casa de las comunicaciones y en estado de retrogradación no será algo positivo para ti el que sus efectos los manifiestes en tu vida."
+       informacion:""
      },
      {
       dia:26,
       imagen:"https://lh5.googleusercontent.com/tR1qhbmna0nOchOuSebk-Bn_APSstnY5sdjh3cvh3yeIe5HwuEYSPIp9GRJPFv71iKi5lQa8EFD5w92TmEtrPHiKMrRHXC9jmMLbRDCbJGvL6IAcwWXFDdKVGVmJLeV16zMqjDgcf6liNNHH3isYHA",
-       informacion:"Aries, según nos indica tu horóscopo, te conviene mantener la energía de tu regente Marte a raya ya que desde la casa de las comunicaciones y en estado de retrogradación no será algo positivo para ti el que sus efectos los manifiestes en tu vida."
+       informacion:""
      },
      {
       dia:27,
       imagen:"https://lh5.googleusercontent.com/tR1qhbmna0nOchOuSebk-Bn_APSstnY5sdjh3cvh3yeIe5HwuEYSPIp9GRJPFv71iKi5lQa8EFD5w92TmEtrPHiKMrRHXC9jmMLbRDCbJGvL6IAcwWXFDdKVGVmJLeV16zMqjDgcf6liNNHH3isYHA",
-       informacion:"Aries, según nos indica tu horóscopo, te conviene mantener la energía de tu regente Marte a raya ya que desde la casa de las comunicaciones y en estado de retrogradación no será algo positivo para ti el que sus efectos los manifiestes en tu vida."
+       informacion:""
      },
      {
       dia:28,
       imagen:"https://lh5.googleusercontent.com/tR1qhbmna0nOchOuSebk-Bn_APSstnY5sdjh3cvh3yeIe5HwuEYSPIp9GRJPFv71iKi5lQa8EFD5w92TmEtrPHiKMrRHXC9jmMLbRDCbJGvL6IAcwWXFDdKVGVmJLeV16zMqjDgcf6liNNHH3isYHA",
-       informacion:"Aries, según nos indica tu horóscopo, te conviene mantener la energía de tu regente Marte a raya ya que desde la casa de las comunicaciones y en estado de retrogradación no será algo positivo para ti el que sus efectos los manifiestes en tu vida."
+       informacion:""
      },
      {
       dia:29,
       imagen:"https://lh5.googleusercontent.com/tR1qhbmna0nOchOuSebk-Bn_APSstnY5sdjh3cvh3yeIe5HwuEYSPIp9GRJPFv71iKi5lQa8EFD5w92TmEtrPHiKMrRHXC9jmMLbRDCbJGvL6IAcwWXFDdKVGVmJLeV16zMqjDgcf6liNNHH3isYHA",
-       informacion:"Aries, según nos indica tu horóscopo, te conviene mantener la energía de tu regente Marte a raya ya que desde la casa de las comunicaciones y en estado de retrogradación no será algo positivo para ti el que sus efectos los manifiestes en tu vida."
+       informacion:""
      },
      {
       dia:30,
       imagen:"https://lh5.googleusercontent.com/tR1qhbmna0nOchOuSebk-Bn_APSstnY5sdjh3cvh3yeIe5HwuEYSPIp9GRJPFv71iKi5lQa8EFD5w92TmEtrPHiKMrRHXC9jmMLbRDCbJGvL6IAcwWXFDdKVGVmJLeV16zMqjDgcf6liNNHH3isYHA",
-       informacion:"Aries, según nos indica tu horóscopo, te conviene mantener la energía de tu regente Marte a raya ya que desde la casa de las comunicaciones y en estado de retrogradación no será algo positivo para ti el que sus efectos los manifiestes en tu vida."
+       informacion:""
      }
   ]
 
