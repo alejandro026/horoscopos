@@ -96,42 +96,42 @@ export class AcuarioComponent implements OnInit {
      {
       dia:17,
       imagen:"https://lh4.googleusercontent.com/R0PuR67S6mrtftsICkCfWfXQKjhLmpyl1leegrDVS9T6jSB9Wl6-WrfqFrxTt7naodqdkTqYVb4kxLPvor57Zd4=w1280",
-       informacion:""
+       informacion:"Serán momentos determinantes en tus relaciones. Si sientes que tu pareja no te valora lo suficiente decidirás decirle adiós. Pero no te preocupes porque todo indica que, si una persona sale de tu vida, muy pronto llegará un remplazo contundente."
      },
      {
       dia:18,
       imagen:"https://lh4.googleusercontent.com/R0PuR67S6mrtftsICkCfWfXQKjhLmpyl1leegrDVS9T6jSB9Wl6-WrfqFrxTt7naodqdkTqYVb4kxLPvor57Zd4=w1280",
-       informacion:""
+       informacion:"Existen muchas probabilidades que a causa de una decisión trascendente termines peleado con un familiar cercano."
      },
      {
       dia:19,
       imagen:"https://lh4.googleusercontent.com/R0PuR67S6mrtftsICkCfWfXQKjhLmpyl1leegrDVS9T6jSB9Wl6-WrfqFrxTt7naodqdkTqYVb4kxLPvor57Zd4=w1280",
-       informacion:""
+       informacion:"La Vanguardia te ofrece las predicciones astrales del horóscopo para Acuario, tu signo zodiacal en el día de hoy . Podrás saber ante qué tipo de día estás en tu trabajo, qué novedades amorosas te esperan, si es un buen día para jugar a la lotería y cuál será tu estado de salud."
      },
      {
       dia:20,
       imagen:"https://lh4.googleusercontent.com/R0PuR67S6mrtftsICkCfWfXQKjhLmpyl1leegrDVS9T6jSB9Wl6-WrfqFrxTt7naodqdkTqYVb4kxLPvor57Zd4=w1280",
-       informacion:""
+       informacion:"Acuario, tu horóscopo nos dice que, tienes que ir rompiendo con viejos hábitos nocivos que Plutón dentro de tu casa 12 te puede dar indicios de que debas mejorar, pero solo tú podrás concretar eficientemente esas rupturas con esas acciones."
      },
      {
       dia:21,
       imagen:"https://lh4.googleusercontent.com/R0PuR67S6mrtftsICkCfWfXQKjhLmpyl1leegrDVS9T6jSB9Wl6-WrfqFrxTt7naodqdkTqYVb4kxLPvor57Zd4=w1280",
-       informacion:""
+       informacion:"Acuario, hoy será un día en el que, sin duda, será mejor callar que discutir, pues esto último supondrá un gasto innecesario de energía y más problemas. Por otro lado, tu mundo emocional podría encontrarse patas arriba, así que necesitarás un poco de tiempo y dedicación para ponerlo en orden."
      },
      {
       dia:22,
       imagen:"https://lh4.googleusercontent.com/R0PuR67S6mrtftsICkCfWfXQKjhLmpyl1leegrDVS9T6jSB9Wl6-WrfqFrxTt7naodqdkTqYVb4kxLPvor57Zd4=w1280",
-       informacion:""
+       informacion:"Tu vida está siempre llena de lucha, especialmente en el trabajo y los asuntos mundanos, en parte porque eres muy firme en tus principios, pero a partir de ahora ya no estarás solo, tendrás a tu lado a alguien que quiere ayudarte y protegerte, movido por un afecto sincero. Todo lo que tú das por los demás a partir de ahora volverá a ti."
      },
      {
       dia:23,
       imagen:"https://lh4.googleusercontent.com/R0PuR67S6mrtftsICkCfWfXQKjhLmpyl1leegrDVS9T6jSB9Wl6-WrfqFrxTt7naodqdkTqYVb4kxLPvor57Zd4=w1280",
-       informacion:""
+       informacion:"Acuario, pronto tendrás la energía suficiente para desarrollar los nuevos proyectos que te interesen, pero por ahora, deberías concentrarte en el trabajo y tratar de no cometer errores, ya que malgastarás tus fuerzas. Asimismo, tu sexto sentido estará muy activo hoy y podrá ayudarte a tomar algunas decisiones."
      },
      {
       dia:24,
       imagen:"https://lh4.googleusercontent.com/R0PuR67S6mrtftsICkCfWfXQKjhLmpyl1leegrDVS9T6jSB9Wl6-WrfqFrxTt7naodqdkTqYVb4kxLPvor57Zd4=w1280",
-       informacion:""
+       informacion:"Las experiencias del pasado te servirán para ir subiendo peldaño por peldaño hasta llegar a la cima sin dar pasos en falso. Es posible que recibas un ascenso en el trabajo o que te otorguen algún tipo de distinción honorifica. Prepárate porque jugarás en las grandes ligas."
      },
      {
       dia:25,
@@ -141,27 +141,27 @@ export class AcuarioComponent implements OnInit {
      {
       dia:26,
       imagen:"https://lh4.googleusercontent.com/R0PuR67S6mrtftsICkCfWfXQKjhLmpyl1leegrDVS9T6jSB9Wl6-WrfqFrxTt7naodqdkTqYVb4kxLPvor57Zd4=w1280",
-       informacion:""
+       informacion:"Intente ser un poco más reservado en la vida. Disfrute de esta conducta y no se esfuerce en conformar siempre a su entorno, empiece a ser tal cual es."
      },
      {
       dia:27,
       imagen:"https://lh4.googleusercontent.com/R0PuR67S6mrtftsICkCfWfXQKjhLmpyl1leegrDVS9T6jSB9Wl6-WrfqFrxTt7naodqdkTqYVb4kxLPvor57Zd4=w1280",
-       informacion:""
+       informacion:"Hoy estoy contento porque le dirás adiós a una situación que venía siendo muy karmática en tu vida. Lograrás liberarte de una carga familiar que te estaba impidiendo encontrar la serenidad. Privilegiarás los momentos de soledad porque en la reflexión encontrarás la posibilidad de oxigenarte."
      },
      {
       dia:28,
       imagen:"https://lh4.googleusercontent.com/R0PuR67S6mrtftsICkCfWfXQKjhLmpyl1leegrDVS9T6jSB9Wl6-WrfqFrxTt7naodqdkTqYVb4kxLPvor57Zd4=w1280",
-       informacion:""
+       informacion:"Acuario, tu horóscopo nos dice que, eres alguien que tiene una energía muy buena y social para poder incrementar todo tipo de acciones sensibles e intelectuales dentro de grupos, esto por todo lo que Venus y Mercurio junto al Sol te aporta dentro de tu casa 11."
      },
      {
       dia:29,
       imagen:"https://lh4.googleusercontent.com/R0PuR67S6mrtftsICkCfWfXQKjhLmpyl1leegrDVS9T6jSB9Wl6-WrfqFrxTt7naodqdkTqYVb4kxLPvor57Zd4=w1280",
-       informacion:""
+       informacion:"Lo que deberás hacer será seguir intentando. La persistencia dará buenos resultados. En lo financiero una puerta se cerrará."
      },
      {
       dia:30,
       imagen:"https://lh4.googleusercontent.com/R0PuR67S6mrtftsICkCfWfXQKjhLmpyl1leegrDVS9T6jSB9Wl6-WrfqFrxTt7naodqdkTqYVb4kxLPvor57Zd4=w1280",
-       informacion:""
+       informacion:"Separa parte de tu tiempo para poner tus asuntos en orden y definir, realmente, que es lo que buscas en una relación amorosa. Si te sientes aburrido, la rutina te mata y estás en un punto frío es hora ya de hacer algo drástico y decisivo con tu vida. "
      }
   ]
 
