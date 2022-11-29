@@ -161,7 +161,7 @@ export class CapricornioComponent implements OnInit {
      {
       dia:30,
       imagen:"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.YTVmVO1ZVWI7FcSwzSwq5wHaD4%26pid%3DApi&f=1&ipt=ae4499a2b564161bd70c38d6216046f3c7eb754c2c05822c1ef3d3c6a9bff3b9&ipo=images",
-       informacion:"uedes sentir que tu círculo social gira a tu alrededor este mes, querido Capricornio, como el sol, Mercurio y Venus viajan a través de Escorpio y el sector de su carta que gobierna la comunidad. Este clima cósmico te inspira a organizar reuniones con tus seres queridos más cercanos, aunque la tentación de jugar al matchmaker entre tus amigos también podría entrar en juego"
+       informacion:"Puedes sentir que tu círculo social gira a tu alrededor este mes, querido Capricornio, como el sol, Mercurio y Venus viajan a través de Escorpio y el sector de su carta que gobierna la comunidad. Este clima cósmico te inspira a organizar reuniones con tus seres queridos más cercanos, aunque la tentación de jugar al matchmaker entre tus amigos también podría entrar en juego"
      }
   ]
 
