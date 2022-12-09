@@ -1,4 +1,5 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, Inject, OnInit } from '@angular/core';
+import { DateAdapter, MAT_DATE_LOCALE } from '@angular/material/core';
 
 @Component({
   selector: 'app-horoscopos-mensual',
@@ -7,7 +8,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class HoroscoposMensualComponent implements OnInit {
 
-  constructor(
+   constructor(
   ) { }
 
   ngOnInit(): void {
