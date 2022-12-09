@@ -71,6 +71,10 @@ mat-hint{
   color: rgb(255 255 255);
 }
 
+::ng-deep .mat-datepicker-content .mat-calendar-next-button{
+  color: rgb(255 255 255);
+}
+
 ::ng-deep .mat-icon-button.mat-button-disabled.mat-button-disabled {
   color: white;
 }

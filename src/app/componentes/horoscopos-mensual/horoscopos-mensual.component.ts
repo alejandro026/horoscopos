@@ -7,13 +7,6 @@ import { Component, OnInit } from '@angular/core';
 })
 export class HoroscoposMensualComponent implements OnInit {
 
-  selected: Date= new Date();
-
-
-  fechaMaxima: Date= new Date();
-
-
-
   constructor(
   ) { }
 
