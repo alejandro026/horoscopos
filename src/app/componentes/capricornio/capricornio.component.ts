@@ -57,7 +57,7 @@ export class CapricornioComponent implements OnInit {
     {
      dia:9,
       imagen:"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.YTVmVO1ZVWI7FcSwzSwq5wHaD4%26pid%3DApi&f=1&ipt=ae4499a2b564161bd70c38d6216046f3c7eb754c2c05822c1ef3d3c6a9bff3b9&ipo=images",
-      informacion:" ¿Hay alguien persiguiéndote, Capricornio? ¿Hay una situación que se siente insoportablemente opresiva? Hoy no tendrá problemas para identificar la fuente de sus problemas. Y la gran noticia es que ese es el primer paso para obtener la liberación de ellos. Pero no puedes esperar que sea fácil. El día que viene puede sentirse algo abrumador."
+      informacion:"Deja de estar triste, si algo es tuyo no permitirás que sea de nadie más. Hoy el dia te sonrie"
     },
     {
      dia:10,

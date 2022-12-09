@@ -57,7 +57,7 @@ export class AcuarioComponent implements OnInit {
     {
      dia:9,
       imagen:"https://lh4.googleusercontent.com/R0PuR67S6mrtftsICkCfWfXQKjhLmpyl1leegrDVS9T6jSB9Wl6-WrfqFrxTt7naodqdkTqYVb4kxLPvor57Zd4=w1280",
-      informacion:"No descartes el dialogo como manera de solucionar los problemas que te aquejan con vecinos en el hogar. Tranquilidad ante todo."
+      informacion: "Vivirás momentos muy positivos a nivel emocional en la jornada de hoy. Te descubrirás haciendo planes a futuro."
     },
     {
      dia:10,

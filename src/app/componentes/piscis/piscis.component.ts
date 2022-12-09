@@ -57,7 +57,7 @@ export class PiscisComponent implements OnInit {
     {
      dia:9,
       imagen:"https://lh4.googleusercontent.com/TlunkCAgt9WNes-JfxQL8lUEPxV0hFrCTwui2r52NPCotoS7Re1maErF2x6mxj_8WYy4hLV_34KTaa7y4pBQptNp2Am9d7HgJ5Sx8FcJI4glELztOoz_L5nDbqd_qyWKim0ov3AAXUlHfLcAS8lOTw",
-      informacion:"Tu intuición debería ser muy alta en este momento, Piscis, al igual que tu poder de manifestación. Hoy necesitas tratar de frenar tus pensamientos y solo pensar cosas hermosas, ¡porque puedes encontrar que cualquier cosa en la que pienses parece manifestarse! Algunos sueños y visiones poderosas pueden abrir nuevas líneas de exploración intelectual para ti que pueden tener un efecto potente en tu futuro inmediato. Ve a ella."
+      informacion:"Diviértete con tus seres queridos, Piscis. Deja tus preocupaciones a un lado. No pienses en las posibles consecuencias negativas de pasar un buen rato. Concéntrate en la diversión y la emoción del momento. Usted tiene la capacidad de crear vínculos fantásticamente fuertes entre usted y su pareja romántica. El amor está a tu favor, así que actúa con confianza. No hay razón para sentirse mal o inseguro de ninguna manera. Mantén la cabeza en alto."
     },
     {
      dia:10,

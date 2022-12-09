@@ -17,12 +17,12 @@ export class SagitarioComponent implements OnInit {
     {
      dia:1,
       imagen:"https://lh3.googleusercontent.com/06K_2ebWPaYA6lXFqIbO22sLPpoqzctUpNxnO9TgdtXbHGW6VHSmIrFLnEejwoK-mPXzwaLDVkoCm8k9H8T3OzjGakBh5k5z9dMWlqNGv22Hc8EXsQNNK2PW_ExuDd6buPGiQ6h_UyFWQ156H5JYDA",
-      informacion:" tu ego puede estar bajo algo de estrés hoy, Sagitario. La parte complicada es que la amenaza que sientes probablemente sea el resultado de algo que ni siquiera es completamente real. Podría ser que alguien esté actuando sobre información falsa que no tiene nada que ver con la realidad de la situación. Es posible que te dejes llevar por la falsa impresión que tiene otra persona de quién eres en realidad."
+      informacion:" Tu ego puede estar bajo algo de estrés hoy, Sagitario. La parte complicada es que la amenaza que sientes probablemente sea el resultado de algo que ni siquiera es completamente real. Podría ser que alguien esté actuando sobre información falsa que no tiene nada que ver con la realidad de la situación. Es posible que te dejes llevar por la falsa impresión que tiene otra persona de quién eres en realidad."
     },
     {
      dia:2,
       imagen:"https://lh3.googleusercontent.com/06K_2ebWPaYA6lXFqIbO22sLPpoqzctUpNxnO9TgdtXbHGW6VHSmIrFLnEejwoK-mPXzwaLDVkoCm8k9H8T3OzjGakBh5k5z9dMWlqNGv22Hc8EXsQNNK2PW_ExuDd6buPGiQ6h_UyFWQ156H5JYDA",
-      informacion:"el estado de ánimo puede ser opresivo hoy, Sagitario. Después de enfrentar los desafíos de los últimos días, ¡ahora necesita un poco de paz y tranquilidad bien merecidos! Por desgracia, las autoridades no están dispuestas a dártelo. Puede esperar que lo depositen sin contemplaciones en su escritorio. El trabajo, al parecer, no esperará hasta que hayas dormido la siesta. ¿Por qué no planear unas vacaciones exóticas para algún momento en el futuro?"
+      informacion:"El estado de ánimo puede ser opresivo hoy, Sagitario. Después de enfrentar los desafíos de los últimos días, ¡ahora necesita un poco de paz y tranquilidad bien merecidos! Por desgracia, las autoridades no están dispuestas a dártelo. Puede esperar que lo depositen sin contemplaciones en su escritorio. El trabajo, al parecer, no esperará hasta que hayas dormido la siesta. ¿Por qué no planear unas vacaciones exóticas para algún momento en el futuro?"
     },
     {
      dia:3,
@@ -57,17 +57,17 @@ export class SagitarioComponent implements OnInit {
     {
      dia:9,
       imagen:"https://lh3.googleusercontent.com/06K_2ebWPaYA6lXFqIbO22sLPpoqzctUpNxnO9TgdtXbHGW6VHSmIrFLnEejwoK-mPXzwaLDVkoCm8k9H8T3OzjGakBh5k5z9dMWlqNGv22Hc8EXsQNNK2PW_ExuDd6buPGiQ6h_UyFWQ156H5JYDA",
-      informacion:"hoy podrías jugar con la idea de publicar, exhibir o hacer públicas las innovaciones creativas en las que has estado trabajando, Sagitario. La información espiritual podría llegarle desde lejos, tal vez a través de amigos o de un grupo al que esté afiliado. La inspiración de todo tipo podría entrar y salir de tu cabeza, por lo que sería mejor escribir tus pensamientos."
+      informacion:"Las cosas mejorarán cada vez más para ti a medida que avanza el día, Sagitario. Trate de recuperar su ser práctico, lógico y con los pies en la tierra durante el día para que tenga la noche para socializar y comunicarse con amigos cercanos, si es posible. El equilibrio será un tema clave para usted hoy, así que asegúrese de mantener las cosas bajo control antes de que cualquier parte de su vida se salga de control."
     },
     {
      dia:10,
       imagen:"https://lh3.googleusercontent.com/06K_2ebWPaYA6lXFqIbO22sLPpoqzctUpNxnO9TgdtXbHGW6VHSmIrFLnEejwoK-mPXzwaLDVkoCm8k9H8T3OzjGakBh5k5z9dMWlqNGv22Hc8EXsQNNK2PW_ExuDd6buPGiQ6h_UyFWQ156H5JYDA",
-      informacion:"espera un aumento en la popularidad hoy, Sagitario. Una forma de hacer un buen uso de esto es generar un cambio. Quizás usted y sus compañeros de trabajo sientan que el lugar de trabajo necesita un nuevo programa, como los beneficios. Sería bueno presentar esto a los tomadores de decisiones. Incluso si se ha hecho antes, use su popularidad para iniciar una petición o encontrar formas creativas de hacer que un grupo sea más efectivo."
+      informacion:"Espera un aumento en la popularidad hoy, Sagitario. Una forma de hacer un buen uso de esto es generar un cambio. Quizás usted y sus compañeros de trabajo sientan que el lugar de trabajo necesita un nuevo programa, como los beneficios. Sería bueno presentar esto a los tomadores de decisiones. Incluso si se ha hecho antes, use su popularidad para iniciar una petición o encontrar formas creativas de hacer que un grupo sea más efectivo."
     },
     {
      dia:11,
       imagen:"https://lh3.googleusercontent.com/06K_2ebWPaYA6lXFqIbO22sLPpoqzctUpNxnO9TgdtXbHGW6VHSmIrFLnEejwoK-mPXzwaLDVkoCm8k9H8T3OzjGakBh5k5z9dMWlqNGv22Hc8EXsQNNK2PW_ExuDd6buPGiQ6h_UyFWQ156H5JYDA",
-      informacion:"un poco de tiempo romántico con alguien especial puede estar bien hoy, Sagitario. Con el caos diario del trabajo y la vida, puede ser difícil pasar un buen rato a solas. Si no hace planes específicos, pueden pasar meses antes de que esto suceda. Tome la situación en la mano y haga esos planes. Si es soltero, considere hacer arreglos para una cita o pasar tiempo con un amigo, si es posible."
+      informacion:"Un poco de tiempo romántico con alguien especial puede estar bien hoy, Sagitario. Con el caos diario del trabajo y la vida, puede ser difícil pasar un buen rato a solas. Si no hace planes específicos, pueden pasar meses antes de que esto suceda. Tome la situación en la mano y haga esos planes. Si es soltero, considere hacer arreglos para una cita o pasar tiempo con un amigo, si es posible."
     },
     {
       dia:12,
@@ -87,12 +87,12 @@ export class SagitarioComponent implements OnInit {
      {
       dia:15,
       imagen:"https://lh3.googleusercontent.com/06K_2ebWPaYA6lXFqIbO22sLPpoqzctUpNxnO9TgdtXbHGW6VHSmIrFLnEejwoK-mPXzwaLDVkoCm8k9H8T3OzjGakBh5k5z9dMWlqNGv22Hc8EXsQNNK2PW_ExuDd6buPGiQ6h_UyFWQ156H5JYDA",
-       informacion:"algunas personas dicen que te pierdes la vida debido a tu tendencia a observar tu vida en lugar de experimentarla directamente. Si ese es el caso, entonces hoy será una verdadera salida para ti. De repente parecerá más en contacto con sus sentimientos y estará más presente y conectado con quienes lo rodean. Se siente bien para variar, ¿no?"
+       informacion:"Algunas personas dicen que te pierdes la vida debido a tu tendencia a observar tu vida en lugar de experimentarla directamente. Si ese es el caso, entonces hoy será una verdadera salida para ti. De repente parecerá más en contacto con sus sentimientos y estará más presente y conectado con quienes lo rodean. Se siente bien para variar, ¿no?"
      },
      {
       dia:16,
       imagen:"https://lh3.googleusercontent.com/06K_2ebWPaYA6lXFqIbO22sLPpoqzctUpNxnO9TgdtXbHGW6VHSmIrFLnEejwoK-mPXzwaLDVkoCm8k9H8T3OzjGakBh5k5z9dMWlqNGv22Hc8EXsQNNK2PW_ExuDd6buPGiQ6h_UyFWQ156H5JYDA",
-       informacion:"algunas personas dicen que te pierdes la vida debido a tu tendencia a observar tu vida en lugar de experimentarla directamente. Si ese es el caso, entonces hoy será una verdadera salida para ti. De repente parecerá más en contacto con sus sentimientos y estará más presente y conectado con quienes lo rodean. Se siente bien para variar, ¿no?"
+       informacion:"Algunas personas dicen que te pierdes la vida debido a tu tendencia a observar tu vida en lugar de experimentarla directamente. Si ese es el caso, entonces hoy será una verdadera salida para ti. De repente parecerá más en contacto con sus sentimientos y estará más presente y conectado con quienes lo rodean. Se siente bien para variar, ¿no?"
      },
      {
       dia:17,
@@ -112,12 +112,12 @@ export class SagitarioComponent implements OnInit {
      {
       dia:20,
       imagen:"https://lh3.googleusercontent.com/06K_2ebWPaYA6lXFqIbO22sLPpoqzctUpNxnO9TgdtXbHGW6VHSmIrFLnEejwoK-mPXzwaLDVkoCm8k9H8T3OzjGakBh5k5z9dMWlqNGv22Hc8EXsQNNK2PW_ExuDd6buPGiQ6h_UyFWQ156H5JYDA",
-       informacion:" las preocupaciones sobre familiares o amigos podrían atormentarte durante todo el día, Sagitario. Tal vez no esté seguro de lo que está mal y se sienta impotente. Independientemente de las vagas preocupaciones que pueda tener, no intente descubrir la verdad sin conocer los hechos. Podrías hacer montañas a partir de un grano de arena. Este no es un buen día para hacer recados. Los retrasos y los obstáculos pueden causar mucha frustración y pérdida de tiempo."
+       informacion:" Las preocupaciones sobre familiares o amigos podrían atormentarte durante todo el día, Sagitario. Tal vez no esté seguro de lo que está mal y se sienta impotente. Independientemente de las vagas preocupaciones que pueda tener, no intente descubrir la verdad sin conocer los hechos. Podrías hacer montañas a partir de un grano de arena. Este no es un buen día para hacer recados. Los retrasos y los obstáculos pueden causar mucha frustración y pérdida de tiempo."
      },
      {
       dia:21,
       imagen:"https://lh3.googleusercontent.com/06K_2ebWPaYA6lXFqIbO22sLPpoqzctUpNxnO9TgdtXbHGW6VHSmIrFLnEejwoK-mPXzwaLDVkoCm8k9H8T3OzjGakBh5k5z9dMWlqNGv22Hc8EXsQNNK2PW_ExuDd6buPGiQ6h_UyFWQ156H5JYDA",
-       informacion:"querrás entrar en acción hoy, Sagitario. Siéntase libre de ordenar a otros para variar y delegar. Un enfoque agresivo es exactamente lo que se requiere, y usted tiene la capacidad de entregar los productos. Tratar de hacer todo usted mismo puede parecer una gran idea al principio, pero es mejor que solicite ayuda para que otros puedan sentirse involucrados y pueda concentrarse en hacer un mejor trabajo en menos tareas."
+       informacion:"Querrás entrar en acción hoy, Sagitario. Siéntase libre de ordenar a otros para variar y delegar. Un enfoque agresivo es exactamente lo que se requiere, y usted tiene la capacidad de entregar los productos. Tratar de hacer todo usted mismo puede parecer una gran idea al principio, pero es mejor que solicite ayuda para que otros puedan sentirse involucrados y pueda concentrarse en hacer un mejor trabajo en menos tareas."
      },
      {
       dia:22,
@@ -127,12 +127,12 @@ export class SagitarioComponent implements OnInit {
      {
       dia:23,
       imagen:"https://lh3.googleusercontent.com/06K_2ebWPaYA6lXFqIbO22sLPpoqzctUpNxnO9TgdtXbHGW6VHSmIrFLnEejwoK-mPXzwaLDVkoCm8k9H8T3OzjGakBh5k5z9dMWlqNGv22Hc8EXsQNNK2PW_ExuDd6buPGiQ6h_UyFWQ156H5JYDA",
-       informacion:"espera estar de humor provocativo hoy, Sagitario. Durante los últimos días, es posible que haya estado buscando una salida para la energía desbordante que tiene la suerte de tener. Tendrá una oportunidad hoy, ya que es probable que se le presenten proyectos innovadores. Si te enfrentas a tus demonios, encontrarás una oportunidad única para deshacerte de los miedos que has estado cargando durante tanto tiempo."
+       informacion:"Espera estar de humor provocativo hoy, Sagitario. Durante los últimos días, es posible que haya estado buscando una salida para la energía desbordante que tiene la suerte de tener. Tendrá una oportunidad hoy, ya que es probable que se le presenten proyectos innovadores. Si te enfrentas a tus demonios, encontrarás una oportunidad única para deshacerte de los miedos que has estado cargando durante tanto tiempo."
      },
      {
       dia:24,
       imagen:"https://lh3.googleusercontent.com/06K_2ebWPaYA6lXFqIbO22sLPpoqzctUpNxnO9TgdtXbHGW6VHSmIrFLnEejwoK-mPXzwaLDVkoCm8k9H8T3OzjGakBh5k5z9dMWlqNGv22Hc8EXsQNNK2PW_ExuDd6buPGiQ6h_UyFWQ156H5JYDA",
-       informacion:": las cosas mejorarán cada vez más para ti a medida que avanza el día, Sagitario. Trate de recuperar su ser práctico, lógico y con los pies en la tierra durante el día para que tenga la noche para socializar y comunicarse con amigos cercanos, si es posible. El equilibrio será un tema clave para usted hoy, así que asegúrese de mantener las cosas bajo control antes de que cualquier parte de su vida se salga de control."
+       informacion:"Las cosas mejorarán cada vez más para ti a medida que avanza el día, Sagitario. Trate de recuperar su ser práctico, lógico y con los pies en la tierra durante el día para que tenga la noche para socializar y comunicarse con amigos cercanos, si es posible. El equilibrio será un tema clave para usted hoy, así que asegúrese de mantener las cosas bajo control antes de que cualquier parte de su vida se salga de control."
      },
      {
       dia:25,

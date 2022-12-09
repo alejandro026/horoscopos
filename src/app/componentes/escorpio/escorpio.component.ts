@@ -57,7 +57,7 @@ export class EscorpioComponent implements OnInit {
     {
      dia:9,
       imagen:"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.q3WzB1ebTje732dl07SnVQHaEK%26pid%3DApi&f=1&ipt=46eadef3f3cfbea5d82409df04df37308b435d6fd75892c8d90e1d7317d07ec1&ipo=images",
-      informacion:"¿Estás anhelando un poco de diversión y anhelas un poco de experimentación y tal vez incluso un juego infantil? Por tentadores que sean estos prospectos, tendrá que ignorarlos. Escorpio, simplemente no tienes tiempo, al menos no hoy. Estará demasiado ocupado lidiando con numerosas pequeñas emergencias que surgen y teniendo que justificar sus decisiones durante todo el día."
+      informacion:"Estarás rodeado de personas sensatas que te mantendrán correctamente informado. Quiero que uses los elementos que tienes a disposición sabiamente."
     },
     {
      dia:10,

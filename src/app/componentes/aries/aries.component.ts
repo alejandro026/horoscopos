@@ -57,7 +57,7 @@ export class AriesComponent implements OnInit {
     {
      dia:9,
       imagen:"image.png",
-      informacion:"A la fuerte influencia del eclipse, hoy el cosmos te seguirá generando cancelaciones e imprevistos, por tal motivo no tendrás más opción que renovar los planes que tenías de reuniones de trabajo."
+      informacion:"Hoy le prestarás más atención a tus hábitos alimenticios y optarás por seguir una dieta basada en comida cacera. Se feliz"
     },
     {
      dia:10,

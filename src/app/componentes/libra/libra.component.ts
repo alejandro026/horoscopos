@@ -62,7 +62,7 @@ export class LibraComponent implements OnInit {
     {
      dia:10,
       imagen:"https://lh6.googleusercontent.com/EGXszlfQ5KD9r_2sAmmmpbj4jUr1VdrBfMgUVRcjXFi_hfmpmtBSDs8a7a9ga_U1sIs26r1Xelwo0B7GKQJiqEaJzJ84gXyzQ-jFe8gVssTIygSb9BvcvrJygP0QtbgsgzZg2wbRdZs5nK0VKIycZw",
-      informacion:"Cualquier objetivo que hayas estado tratando de alcanzar finalmente puede hacerse realidad hoy, Leo. Finalizar todo podría implicar correr mucho en el automóvil y reunirse con otras personas, pero es probable que se sienta emocionado de todos modos. Las personas poderosas podrían ser de gran ayuda para usted. Como resultado, las cosas deberían ir muy bien en este momento. ¡Aprovecha al máximo!"
+      informacion:"Hoy deberías verte y sentirte genial. Puede atraer algunas miradas admirables de los transeúntes en la calle. El sexo y el romance pueden estar en tu mente, Leo. Es probable que quieras pasar el día con tu persona especial. También podría canalizar esos sentimientos hacia actividades creativas de algún tipo. Puede llegar información que haga fluir sus jugos mentales. ¡Aprovecha al máximo!"
     },
     {
      dia:11,

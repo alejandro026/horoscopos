@@ -57,7 +57,7 @@ export class LeoComponent implements OnInit {
     {
      dia:9,
       imagen:"https://lh6.googleusercontent.com/EGXszlfQ5KD9r_2sAmmmpbj4jUr1VdrBfMgUVRcjXFi_hfmpmtBSDs8a7a9ga_U1sIs26r1Xelwo0B7GKQJiqEaJzJ84gXyzQ-jFe8gVssTIygSb9BvcvrJygP0QtbgsgzZg2wbRdZs5nK0VKIycZw",
-      informacion:"Cualquier objetivo que hayas estado tratando de alcanzar finalmente puede hacerse realidad hoy, Leo. Finalizar todo podría implicar correr mucho en el automóvil y reunirse con otras personas, pero es probable que se sienta emocionado de todos modos. Las personas poderosas podrían ser de gran ayuda para usted. Como resultado, las cosas deberían ir muy bien en este momento. ¡Aprovecha al máximo!"
+      informacion:"Él tuyo será uno de los signos más afortunados en el día de hoy tanto en los asuntos laborales y mundanos como en los de carácter más íntimo, la suerte está siempre contigo, pero hoy la vas a percibir un poco más en las situaciones cotidianas."
     },
     {
      dia:10,

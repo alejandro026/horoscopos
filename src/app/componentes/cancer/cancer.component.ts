@@ -57,7 +57,7 @@ export class CancerComponent implements OnInit {
     {
      dia:9,
       imagen:"https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.WAkXkZ6mw3FqSajDcCkAqQHaHa%26pid%3DApi&f=1&ipt=796e63c79d4d6df68fa00d9247b90e145f51c09416403563949f78c646c03913&ipo=images",
-      informacion:"No siempre es fácil pensar en cómo va tu vida, Cáncer. Imagínese si estuviera solo en el mundo, sin nada que lo detenga o lo obligue a hacer nada. Al menos una vez al mes, dedica una hora a visualizar cómo sería tu vida en estas condiciones. "
+      informacion:"La felicidad estará al lado de tu familia. Nuevos planes para desarrollar en corto tiempo, aprovecha el tiempo, eliges entre dos o más oportunidades. "
     },
     {
      dia:10,
